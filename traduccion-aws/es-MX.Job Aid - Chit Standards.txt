@@ -1,0 +1,97 @@
+
+
+*PETE_BLU_SWTR*
+Dbl Bakd Croissant
+Calentado
+Tl Clvr Eth Gedeb
+Shakerato Bianco
+Paradeisi
+Scone estacional
+Calentado
+>CAFÉ<
+Recibo # 733746
+Reg: 3 10:47:00 AM
+§Nombre del cliente e identificador o
+nombre del cliente y número de tabla
+Por qué: Permite la entrega sin fisuras de terminados
+órdenes
+§Los identificadores deben estar siempre basados
+sobre artículos de ropa nofísico
+o apariencia personal
+Por qué: Protege la integridad de la experiencia del cliente
+con objetividad y consistencia
+§Contenidos detallados de orden
+Por qué: Garantiza que el pedido se complete completamente antes de la entrega.
+Coordina orden “disparando” con un objetivo de todos los ítems
+terminando juntos
+§Hora de entrada de la orden
+Por qué: Los boletos deben completarse tan rápido como
+posible
+§Orden de registro fue tomada de
+Por qué: Identifica un socio claro para dirigir el seguimiento potencial
+ups a
+TRABAJO AID-CHIT NORMAS DEL SISTEMA-
+DECONSTRUYENDO
+
+*VEEVECK_2G_REDHAT*
+Dbl Bakd Croissant
+Calentado
+Tl Clvr Eth Gedeb
+Shakerato Bianco
+Paradeisi
+Scone estacional
+Calentado
+Modificador To Go
+>CAFÉ<
+Recibo # 733746
+Reg: 3 10:47:00 AM
+§Los identificadores deben estar siempre basados en
+artículos de vestir nofísicos o
+apariencia personal.
+Por qué: Protege la integridad de la experiencia del cliente
+con objetividad y consistencia
+§Los nombres deben deletrearse en un
+manera que asegure
+pronunciación (fonéticamente)
+Por qué: Honra al cliente al tomarse tiempo para asegurar su
+nombre se pronuncia correctamente
+Si el socio no puede completar un identificador fonético, el
+pareja debe transmitir verbalmente la pronunciación adecuada
+al papel expeditor
+§Si el cliente pide artículos “para ir”
+socio debe indicar “2G” en el chit
+columna de identificador directamente después de invitado
+nombre
+Por qué: Mantiene la precisión del pedido
+El modificador de código clave “To Go” solo se debe utilizar para single
+ítems e implica que todos los demás artículos serán incumplidos
+“Por aquí”
+TRABAJO AID-CHIT NORMAS DEL SISTEMA
+
+*ARTÍCULOS
+Camisa: SHRT
+Camiseta: TEE
+Suéter: SWTR
+Sombrero: SOMBRERO
+Pantalón: PTS
+Botón abajo: BDWN
+*COLORES*
+Negro: BLK
+Verde: GRN
+Azul: BLU
+Marrón: BRN
+Naranja: ORG
+Amarillo: YLW
+Morado: PRP
+Gris: GRY
+Rojo: ROJO
+Blanco: WHT
+EMPLEO-AID-CHIT SISTEMA ESTÁNDARS-IDENTIFICADOR
+CÓDIGOS
+Empate: TIE
+Vestido: DRSS
+Jersey: JRZY
+Zapatos: SHU
+Chaqueta: JKT
+Traje: TRAJE
+Gafas: GLAS

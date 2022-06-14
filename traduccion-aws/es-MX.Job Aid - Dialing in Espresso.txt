@@ -1,0 +1,39 @@
+
+
+Dosifica café en portafilter
+Colocar portafiltro lleno en escala. Agregar/
+quitar el café para alcanzar los 18 gramos de peso.
+Colocar portafiltro limpio, seco en escala &
+tara a 0
+Tira tiros para validar 24-29 segundos
+rango de extracción estándar y el adecuado
+viscosidad. De no ser así, continúe con el paso 6.
+Para un disparo tirando demasiado despacio, muévete
+marque 1 marca de garrapata a la izquierda para más áspero.
+Para un disparo tirando demasiado rápido, muévete
+marque 1 marca de marca a la derecha para más fino.
+Ejecuta la amoladora presionando el dosificador
+interruptor para 2 dosis para despejar cámara
+y restablecer rebabas.
+Repita los pasos 1-7 hasta que los tiros vierten dentro
+24-29 segundo rango estándar, cumplir con el
+viscosidad visual y estándares de sabor.
+1
+2
+3
+4
+5
+6
+7
+8
+Dosis de Salida
+Programación:
+AYUDA LABORAL-MARCACIÓN EN ESPRESSO
+Apisonan firme y uniformemente, aplicando 30-
+50lbs de presión.
+A
+B
+C
+A.Doubleshot
+B.Less café
+C.More café

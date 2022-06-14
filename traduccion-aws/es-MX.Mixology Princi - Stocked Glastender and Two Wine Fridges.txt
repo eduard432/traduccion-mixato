@@ -1,0 +1,65 @@
+
+
+Almacenado Glastender y 2 Frigoríficos de Vino. Mantén los productos ofrecidos como botella solo en Back of House.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nevera #1: Vino Blanco 1-7 Nevera #2: Vino Blanco 8-11, Dulce
+Vermut, Digectora 1-4
+
+Espíritu 1
+
+Espíritu 2
+
+Espíritu 3
+
+Espíritu 4
+
+R
+_Vino 1
+
+R
+_Vino 2
+
+R
+_Vino 3
+
+R
+_Vino 4
+
+R
+_Vino 5
+
+R
+_Vino 6
+
+R
+_Vino 7
+
+R
+_Vino
+8
+
+
+Opcional
+
+
+Opcional
+
+Digectora 1-6
+Digectora 7-11, 1 Opcional
