@@ -1,6 +1,7 @@
-# Arhivo PDF original: [link](https://github.com/eduard432/traduccion-mixato/blob/main/documentos/Bar%20Mixato%20Recipe%20Cards.pdf)
+# Arhivo PDF original: [Link](https://github.com/eduard432/traduccion-mixato/blob/main/documentos/Bar%20Mixato%20Recipe%20Cards.pdf)
 
 ---
+
 ## LA NUBE DE WHISKY
 
 ---
@@ -11,13 +12,13 @@
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | Precalentar la taza con agua caliente                                                            | --------                                                                                            |
 | Desechar el agua de la taza después de 15 a 30 segundos                                          | --------                                                                                            |
-| Preparar Café                                                                                    | Muele 20g de café en el ajuste **Ditting #9**                                                       |
+| Preparar Café                                                                                    | Muele 20g de café con el ajuste **Ditting #9**                                                      |
 | --------                                                                                         | Coloca el café en una prensa de café de 3 tazas                                                     |
 | --------                                                                                         | Llene con agua caliente y prepare por cuatro minutos                                                |
 | Agregar ingredientes a la taza                                                                   | 2 chorros de **_Chocolate Bitters_**                                                                |
 | --------                                                                                         | ¼ onza de **_Jarabe de Piloncillo Naranja_**                                                        |
 | --------                                                                                         | ¼ onza de **_Averna® Amaro_**                                                                       |
-| --------                                                                                         | ¾ onza de **_Westland Single Malt Whiskey_**                                                        |
+| --------                                                                                         | ¾ onzas de **_Westland Single Malt Whiskey_**                                                       |
 | Coloque la prensa en la esquina superior izquierda de la bandeja con el mango hacia la izquierda | --------                                                                                            |
 | Coloque la taza de vidrio en el medio de la bandeja con el asa hacia la derecha                  | --------                                                                                            |
 | Agregue los ingredientes en el agitador para crear crema batida                                  | 3 onzas de crema batida espesa                                                                      |
@@ -33,10 +34,18 @@
 
 ---
 
-> **Woodinville™ Straight Bourbon Whiskey, Campari, Carpano Antica Sweet Vermouth y Jarabe de Vainilla en Barrica sobre café recién molido. La bebida filtrada se termina con una pizca de amargo _Srappy's Lavender Bitters_**
+> **Woodinville™ Straight Bourbon Whiskey, Campari, Carpano Antica Sweet Vermouth y Jarabe de Vainilla Envejecido en Barrica sobre café recién molido. La bebida filtrada se termina con una pizca de amargo _Srappy's Lavender Bitters_**
 
-| Paso                                 | Copa de Cristal de 21.5 onzas |
-| ------------------------------------ | ----------------------------- |
-| Agregar hielo a la copa para enfriar | -----------                   |
-| Filtro de papel Prep Hario V60       | Filtro de                   |
-
+| Paso                                                                                                                                           | Copa de Cristal de 21.5 onzas                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Agregar hielo a la copa para enfriar                                                                                                           | -----------                                                                                                                               |
+| Filtro de papel Prep Hario V60                                                                                                                 | Filtro de papel humedo con agua fría sobre una jarra de vidrio. Deseche el agua y colo que la jarra de vidrio debajo del Filtro Hario V60 |
+| Agregar café al filtro                                                                                                                         | 10g de café Starbucks Reserve®                                                                                                            |
+| --------                                                                                                                                       | Muele 10g de café con el ajuste **Ditting #5**                                                                                            |
+| Agregue los ingredientes a un recipiente para mezclar                                                                                          | ¼ onza de Jarabe de Vainilla Envejecido en Barrica                                                                                        |
+| --------                                                                                                                                       | ½ onza de Campari                                                                                                                         |
+| --------                                                                                                                                       | ¾ onzas de Vermouth Dulce de Carpano Antica                                                                                               |
+| ----------                                                                                                                                     | 1 ½ onzas de Woodinville™ Straight Bourbon Whiskey                                                                                        |
+| Llene el vaso con hielo y revuelva para permitir que los ingredientes se diluyan. Asegúrese de lograr un enfriamiento y una dilución adecuados |
+| Presión                                                                                                                                        | Use un colador Julep para verter la bebida realizando pequeños movimientos circulares sobre el cafe molido                                |
+| Terminar y servir                                                                                                                              | Vierta el contenido de la jarra en la copa                                                                                                |
