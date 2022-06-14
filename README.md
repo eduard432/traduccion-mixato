@@ -9,7 +9,7 @@
 **traduccion-aws:** _Archivos de traducción autogenerados (Solamente de Apoyo_  
 **screenshots:** _Imágenes de esta guía_
 
-**traduccion:** _Arhivos de ya traducidos_  
+**traduccion:** _Arhivos ya traducidos_  
  \> **markdown:** _Archivos de traducción en markdown_  
  \> **pdf:** _Archivos de traducción en pdf_
 
