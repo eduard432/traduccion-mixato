@@ -20,4 +20,4 @@
 |--------| Coloque la harra encima del logotipo en la bandeja y vierta la crema batida en la jarra  |
 |--------| Usando un rallador, ralle la nuez moscada sobre la parte superior de la jarra de crema y la bandeja |
 |--------| Mueva la jarra de crema hacia la parte superior derecha, dejando un circulo alrededor del logotipo |
-| Terminar y servir | Sirva con instrucciones para sumergir la presna cuando el temporizador se detenga |
+| Terminar y servir | Sirva con instrucciones para sumergir la prensa cuando el temporizador se detenga |
