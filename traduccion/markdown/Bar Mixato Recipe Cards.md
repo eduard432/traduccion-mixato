@@ -1,3 +1,6 @@
+# Arhivo PDF original: [link](https://github.com/eduard432/traduccion-mixato/blob/main/documentos/Bar%20Mixato%20Recipe%20Cards.pdf)
+
+---
 ## LA NUBE DE WHISKY
 
 ---
