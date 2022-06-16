@@ -73,3 +73,9 @@
 | Llena el mezclador con hielo y agia vigorosamente. Asegúrese de que el hielo comience a resquebrajarse y de que se logre el enfriamiento y dilución adecuados | --------                                                                           |
 | **Colado doble**                                                                                                                                              | Use un colador _Hawthrone_ y un colador de malla para verter la bebida en un vaso. |
 | **Terminar y servir**                                                                                                                                         | Decorar con chocolate recién rallado.                                              |
+
+---
+## RESERVE SICILIANO COCKTAIL
+---
+
+>**Cold Brew, Averna® Amaro, Carpano Antica Sweet Vermouth**
