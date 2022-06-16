@@ -1,3 +1,5 @@
+<!-- TODO: Remarcar palabras en tablas -->
+
 # Arhivo PDF original: [Link](https://github.com/eduard432/traduccion-mixato/blob/main/documentos/Bar%20Mixato%20Recipe%20Cards.pdf)
 
 ---
@@ -49,3 +51,25 @@
 | Llene el vaso con hielo y revuelva para permitir que los ingredientes se diluyan. Asegúrese de lograr un enfriamiento y una dilución adecuados |
 | Presión                                                                                                                                        | Use un colador Julep para verter la bebida realizando pequeños movimientos circulares sobre el cafe molido                                |
 | Terminar y servir                                                                                                                              | Vierta el contenido de la jarra en la copa                                                                                                |
+
+---
+
+## STARBUCKS RESERVE ESPRESSO MARTINI
+
+---
+
+> **Espresso batido con _Kalak Single Malt vodka_ y Jarabe de Vainilla Envejecido en Barrica crea un cóctel espumoso que se termina con una ralladora de chocolate amargo**
+
+<!-- TODO: Definición faltante: "Start 1 pull of espresso" -->
+
+| Paso                                                                                                                                                          | Copa de Cristal para Matini 7.5 onzas                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Agregar hielo a la copa para enfriar                                                                                                                          | --------                                                                           |
+| Start 1 pull of **espresso**.                                                                                                                                 | --------                                                                           |
+| Agregar ingredientes al mezclador                                                                                                                             | **¾ onzas de Jarabe de Vainilla Envejecido en Barrica**                            |
+| --------                                                                                                                                                      | **1 ½ onzas de _Kalak Single Malt vodka_**                                         |
+| --------                                                                                                                                                      | **1 pull of espresso**                                                             |
+| Deseche el hielo de la copa                                                                                                                                   | --------                                                                           |
+| Llena el mezclador con hielo y agia vigorosamente. Asegúrese de que el hielo comience a resquebrajarse y de que se logre el enfriamiento y dilución adecuados | --------                                                                           |
+| **Colado doble**                                                                                                                                              | Use un colador _Hawthrone_ y un colador de malla para verter la bebida en un vaso. |
+| **Terminar y servir**                                                                                                                                         | Decorar con chocolate recién rallado.                                              |
