@@ -1,5 +1,7 @@
 <!-- TODO: Remarcar palabras en tablas -->
 
+<!-- TODO: Revisar nombre de los recipientes -->
+
 # Arhivo PDF original: [Link](https://github.com/eduard432/traduccion-mixato/blob/main/documentos/Bar%20Mixato%20Recipe%20Cards.pdf)
 
 ---
@@ -75,7 +77,24 @@
 | **Terminar y servir**                                                                                                                                         | Decorar con chocolate recién rallado.                                              |
 
 ---
+
 ## RESERVE SICILIANO COCKTAIL
+
 ---
 
->**Cold Brew, Averna® Amaro, Carpano Antica Sweet Vermouth**
+> **Cold Brew, Averna® Amaro, Carpano Antica Sweet Vermouth y amargos de naranja, cubiertos con agua con gas crean la versión Starbucks Reserve® del clásico Siciliano**
+
+| Paso                                                                                                                                                      | Cupé de cristal                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Agregar hielo al cupé para enfriar.                                                                                                                       | --------                                                 |
+| Agregue los ingredientes en un recipiente para mezclar.                                                                                                   | **2 pizcas de amargo de naranja _Scrappy_**              |
+| --------                                                                                                                                                  | **1 ½ onzas de concentrado de cerveza fría**             |
+| --------                                                                                                                                                  | **1 ½ onzas de _Averna® Amaro_**                         |
+| --------                                                                                                                                                  | **1 onza de Vermouth Dulce de Carpano**                  |
+| LLene el vaso mezclador con hielo y revuellva para permitir que los ingredientes se diluyan. Asegúrese de lograr un enfriamiento y una dilución adecuados | --------                                                 |
+| Deseche el hielo del cupé                                                                                                                                 | --------                                                 |
+| **Colado**                                                                                                                                                | Use un colador _Julep_ para verter el cóctel en el vaso. |
+| **Terminar y servir**                                                                                                                                     | Cubra con agua con gas                                   |
+| --------                                                                                                                                                  | Decorar con cascara de naranja y añadir al vaso.         |
+
+<!-- TODO: Cambiar diluyan por mezclen -->
