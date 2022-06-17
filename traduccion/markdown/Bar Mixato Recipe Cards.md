@@ -98,12 +98,44 @@
 | --------                                                                                                                                                  | Decorar con cascara de naranja y añadir al vaso.         |
 
 <!-- TODO: Cambiar diluyan por mezclen -->
+<!-- TODO: Agregar puntos en cada parrafo -->
 ---
-## Manhattan
+## MANHATTAN
 ---
 
 | Paso | Cúpe de Cristal |
 | -------- | -------- |
 | Agregar hielo al cupé para enfriar. | -------- |
 | **Agregue los ingredientes en un recipiente para mezclar.** | **3 pizcas de amargos aromáticos _Scrappy_** |
-| -------- | 1 onza de Vermouth Dulce de Carpano |
+| -------- | **1 onza de Vermouth Dulce de Carpano** |
+| -------- | **2 onzas de whisky** |
+| Llene el recipiente para mezclar con hielo y revuelva para permitir que los ingredientes se diluyan. Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
+| Deseche el hielo del cupé | -------- |
+| **Colado**                                                                                                                                                | Use un colador _Julep_ para verter el cóctel en el vaso. |
+|**Terminar y servir**| Añadir cascara de naranja para posteriormente desechar. Coloque la cereza del coctel en un vaso |
+
+<!-- TODO: revisar expresión cascara de naranja -->
+
+---
+OLD FASHIONED
+---
+| Paso | Vaso Bajo |
+|-------- | -------- |
+| Llena el vaso con hielo | -------- |
+| **Agregar ingredientes al vaso** | **1 pizca de amargo de naranja _Scrappy_** |
+| -------- | **2 pizcas de amargos aromáticos _Scrappy_** |
+| -------- | **¼ de onza de Jarabe _Demerara_**
+| -------- | **2 onzas de whisky** |
+| Levante suavemente y acaricie suavemente el hielo con una cuchara de bar larga para permitir que los ingredientes se diluyan. | -------- |
+| **Terminar y servir** | **Adorne con una brocheta de cerezas para coctel y adorne con una cascara de naranja** |
+
+---
+## VODKA MARTINI
+---
+| Paso | Copa de Martini |
+| -------- | -------- |
+| **Agregue los ingredientes a un recipiente para mezclar** | **2 pizcas de amargo de naranja _Scrappy_** |
+| -------- | **½ onza de Vermouth Extra Seco** |
+| -------- | **2 cucharadas de hielo** |
+| -------- | **2 ½ onzas de Vodka** |
+| Revuelva para permitir que los ingredientes se diluyan Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
