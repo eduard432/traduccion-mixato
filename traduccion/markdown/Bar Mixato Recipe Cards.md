@@ -84,7 +84,7 @@
 
 > **Cold Brew, Averna® Amaro, Carpano Antica Sweet Vermouth y amargos de naranja, cubiertos con agua con gas crean la versión Starbucks Reserve® del clásico Siciliano**
 
-| Paso                                                                                                                                                      | Cupé de cristal                                          |
+| Paso                                                                                                                                                      | Cupé de Cristal                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | Agregar hielo al cupé para enfriar.                                                                                                                       | --------                                                 |
 | Agregue los ingredientes en un recipiente para mezclar.                                                                                                   | **2 pizcas de amargo de naranja _Scrappy_**              |
@@ -98,3 +98,12 @@
 | --------                                                                                                                                                  | Decorar con cascara de naranja y añadir al vaso.         |
 
 <!-- TODO: Cambiar diluyan por mezclen -->
+---
+## Manhattan
+---
+
+| Paso | Cúpe de Cristal |
+| -------- | -------- |
+| Agregar hielo al cupé para enfriar. | -------- |
+| **Agregue los ingredientes en un recipiente para mezclar.** | **3 pizcas de amargos aromáticos _Scrappy_** |
+| -------- | 1 onza de Vermouth Dulce de Carpano |
