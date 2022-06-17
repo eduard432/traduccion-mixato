@@ -139,3 +139,24 @@ OLD FASHIONED
 | -------- | **2 cucharadas de hielo** |
 | -------- | **2 ½ onzas de Vodka** |
 | Revuelva para permitir que los ingredientes se diluyan Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
+|Deseche el hielo de la copa | -------- |
+| **Colado** | Coloque el colador _Julep_ sobre la parte superior del recipiente de mezcla y vierta en el vaso frió | 
+| **Terminar y servir** | **Decorar con cascara de limón o dos brochetas de aceitunas _Castelvetrano_** |
+
+---
+## GIN MARTINI
+---
+
+| Paso | Copa de Martini |
+| -------- | -------- |
+| Agregue hielo a la copa para enfriar. | -------- |
+| Agregue los ingredientes a un recipiente para mezclar. | **2 pizcas de amargo de naranja _Scrappy_** |
+| -------- | **½ onza de Vermouth Extra Seco** |
+| -------- | **2 cucharadas de hielo** |
+| -------- | **2 ½ onzas de Ginebra** |
+| Revuelva para permitir que los ingredientes se diluyan Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
+| Deseche el hielo de la copa | -------- |
+| **Colado** | Coloque el colador _Julep_ sobre la parte superior del recipiente de mezcla y vierta en el vaso frió |
+| **Terminar y servir** | Preguntar al cliente por preferencia por limón o aceitunas.|
+| -------- | **Decorar con cascara de limón o dos brochetas de aceitunas _Castelvetrano_** |
+
