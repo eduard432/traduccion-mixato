@@ -230,3 +230,25 @@ OLD FASHIONED
 | Sostenga el vaso en un ángulo de 45° grados con respecto a la botella, apuntando el vertido hasta la mitad del vaso
 | **Terminar y servir** | Incline suavemenete el vaso en posición vertical cuando esté medio lleno y termine de verter. |
 
+---
+## KEGGED BEER & CIDER
+---
+| Paso | Vaso |
+| -------- | -------- |
+| Sostenga el vaso en un ángulo de 45 grados, aproximadamente 1 grado por debajo del grifo | -------- |
+| **Grifo totalmente abierto** | LLene el vaso sin perimitir que el grifo toque el vaso |
+| **Terminar y servir** | Termine el vertido incinando suavemente el vaso en posición vertical cuando el liquido llegue a la mitad del vaso. |
+
+---
+## WINE & PROSECCO
+---
+
+| Vino | -------- |
+| -------- | -------- |
+| Paso | Copa de Vino |
+| **Verter y servir** | 6 onzas en una copa de vino |
+
+| Prosseco | -------- |
+| -------- | -------- |
+| Paso | Flute Glass |
+| **Verter y servir** | 6 onza en una copa de campán |
