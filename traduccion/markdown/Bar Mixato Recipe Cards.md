@@ -191,3 +191,18 @@ OLD FASHIONED
 | Levante suavemente y acaricie suavemente el hielo con una cuchara de bar larga para permitir que los ingredientes se diluyan. | -------- |
 | **Terminar y servir** | **Decorar con rodaja de media naranja** |
 | **Recordatorio de calidad** | Coloque la rodaja de naranja entre el vaso y el hielo. Sirva de manera que la rodaja de naranja quede de espaldas al cliente. |
+
+---
+## MILANO TORINO
+---
+
+>**_La más completa y robusta de nuestra bebidas de aperitivo, cada sorbo está lleno de naranja, ruibarbo y un toque ahumado. Un matrimonio entre ingredientes italianos de Milán y Turín_**
+
+| Paso | Vaso Bajo |
+| -------- | -------- |
+| Llena el vaso con hielo | -------- |
+| **Agregar ingredientes al vaso** | **1 pizca de amargo de _Zucca_** |
+| -------- | **2 ½ onzas de Vermouth Dulce de Carpano** |
+| -------- | **1 pizca de amargo de Campari_** |
+| Levante suavemente y acaricie suavemente el hielo con una cuchara de bar larga para permitir que los ingredientes se diluyan. | -------- |
+| **Terminar y servir** | **Exprima una cascara de naraja sobre la bebida y agréguela al vaso.** |
