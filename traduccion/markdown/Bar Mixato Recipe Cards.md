@@ -1,6 +1,7 @@
 <!-- TODO: Remarcar palabras en tablas -->
 
 <!-- TODO: Revisar nombre de los recipientes -->
+<!-- TODO: Revisar forma gramatical -->
 
 # Arhivo PDF original: [Link](https://github.com/eduard432/traduccion-mixato/blob/main/documentos/Bar%20Mixato%20Recipe%20Cards.pdf)
 
@@ -10,7 +11,7 @@
 
 ---
 
-> **Starbucks Reserve® coffe, Westland Single Malt Whiskey, Averna® Amaro, Jarabe de Piloncillo Naranja, Scrappy's Chocolate Bitters terminado con una guarnición de crema batida y nuez moscada**
+> **_Starbucks Reserve® coffe, Westland Single Malt Whiskey, Averna® Amaro, Jarabe de Piloncillo Naranja, Scrappy's Chocolate Bitters terminado con una guarnición de crema batida y nuez moscada_**
 
 | Paso                                                                                             | Taza de Cristal                                                                                     |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
@@ -38,7 +39,7 @@
 
 ---
 
-> **Woodinville™ Straight Bourbon Whiskey, Campari, Carpano Antica Sweet Vermouth y Jarabe de Vainilla Envejecido en Barrica sobre café recién molido. La bebida filtrada se termina con una pizca de amargo _Srappy's Lavender Bitters_**
+> **_Woodinville™ Straight Bourbon Whiskey, Campari, Carpano Antica Sweet Vermouth y Jarabe de Vainilla Envejecido en Barrica sobre café recién molido. La bebida filtrada se termina con una pizca de amargo Srappy's Lavender Bitters_**
 
 | Paso                                                                                                                                           | Copa de Cristal de 21.5 onzas                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +61,7 @@
 
 ---
 
-> **Espresso batido con _Kalak Single Malt vodka_ y Jarabe de Vainilla Envejecido en Barrica crea un cóctel espumoso que se termina con una ralladora de chocolate amargo**
+> **_Espresso batido con _Kalak Single Malt vodka y Jarabe de Vainilla Envejecido en Barrica crea un cóctel espumoso que se termina con una ralladora de chocolate amargo_**
 
 <!-- TODO: Definición faltante: "Start 1 pull of espresso" -->
 
@@ -82,7 +83,7 @@
 
 ---
 
-> **Cold Brew, Averna® Amaro, Carpano Antica Sweet Vermouth y amargos de naranja, cubiertos con agua con gas crean la versión Starbucks Reserve® del clásico Siciliano**
+> **_Cold Brew, Averna® Amaro, Carpano Antica Sweet Vermouth y amargos de naranja, cubiertos con agua con gas crean la versión Starbucks Reserve® del clásico Siciliano_**
 
 | Paso                                                                                                                                                      | Cupé de Cristal                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -153,10 +154,40 @@ OLD FASHIONED
 | Agregue los ingredientes a un recipiente para mezclar. | **2 pizcas de amargo de naranja _Scrappy_** |
 | -------- | **½ onza de Vermouth Extra Seco** |
 | -------- | **2 cucharadas de hielo** |
-| -------- | **2 ½ onzas de Ginebra** |
+| -------- | **2 ½ onzas de ginebra** |
 | Revuelva para permitir que los ingredientes se diluyan Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
 | Deseche el hielo de la copa | -------- |
 | **Colado** | Coloque el colador _Julep_ sobre la parte superior del recipiente de mezcla y vierta en el vaso frió |
 | **Terminar y servir** | Preguntar al cliente por preferencia por limón o aceitunas.|
 | -------- | **Decorar con cascara de limón o dos brochetas de aceitunas _Castelvetrano_** |
 
+---
+## FRENCH 75
+---
+
+| Paso | Flute Glass |
+| -------- | -------- |
+| Agregue hielo a la copa para enfriar. | -------- |
+| Agregue los ingredientes a un recipiente para mezclar. | **¼ de onza de jarabe sencillo** |
+| -------- | **½ onza de jugo de limón** |
+| -------- | **1 onza de ginebra** |
+| Llene el recipiente para mezclar con hielo y revuelva para permitir que los ingredientes se diluyan. Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
+| Agitar y luego deseche el hielo de la copa | -------- |
+| **Colado** | Coloque el colador _Julep_ sobre la parte superior del recipiente de mezcla y vierta en el vaso frió |
+| **Agregar prosseco** | Llene justo debajo del borde del vaso. |
+| **Terminar y servir** | **Decorar con rodaja de limón.** |
+
+---
+## APEROL SPRITZ
+---
+>**_El más ligero y refrescante de todos nuestros aperitivos. Un toque amargo de pomelo equilibra esta bebida accesible con sabor a naranja y ruibarbo_**
+
+| Paso | Copa de Cristal de 21.5 |
+| -------- | -------- |
+| Agregue hielo a la copa para enfriar. | -------- |
+| **Agregue los ingredientes a un recipiente para mezclar.** | **1 ½ onzas de _Aperol_** |
+| -------- | **4 ½ onza de _Prosseco_** |
+| -------- | Cubra con **½ onza de agua con gas** |
+| Levante suavemente y acaricie suavemente el hielo con una cuchara de bar larga para permitir que los ingredientes se diluyan. | -------- |
+| **Terminar y servir** | **Decorar con rodaja de media naranja** |
+| **Recordatorio de calidad** | Coloque la rodaja de naranja entre el vaso y el hielo. Sirva de manera que la rodaja de naranja quede de espaldas al cliente. |
