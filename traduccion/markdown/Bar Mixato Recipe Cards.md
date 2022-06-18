@@ -203,6 +203,30 @@ OLD FASHIONED
 | Llena el vaso con hielo | -------- |
 | **Agregar ingredientes al vaso** | **1 pizca de amargo de _Zucca_** |
 | -------- | **2 ½ onzas de Vermouth Dulce de Carpano** |
-| -------- | **1 pizca de amargo de Campari_** |
+| -------- | **1 pizca de amargo de _Campari_** |
 | Levante suavemente y acaricie suavemente el hielo con una cuchara de bar larga para permitir que los ingredientes se diluyan. | -------- |
 | **Terminar y servir** | **Exprima una cascara de naraja sobre la bebida y agréguela al vaso.** |
+
+---
+## NEGRONI
+---
+<!-- TODO: Cambiar titulos de tablas a mayusculas -->
+<!-- TODO: Revisar significado de "gin" -->
+| Paso | Vaso Anticuado Doble |
+| -------- | -------- |
+| Agregue hielo al vaso para enfriar. | -------- |
+| Agregue los ingredientes al vaso para mezclar. | **1 onza de Vermouth Dulce de Carpano** |
+| -------- | **1 onza de _Campari_** |
+| -------- | **1 onza de gin** |
+| Llene el vaso con hielo y revuelva para permitir que los ingredientes se diluyan. Asegúrese de lograr un enfriamiento y una dilución adecuados. | -------- |
+| **Colado** | Use un colador _Julep_ para verter el cóctel en el vaso  |
+| **Terminar y servir** | **Decorar con rodaja de media naranja, agregar al vaso** |
+
+---
+## BOTTLED BEER & CIDER
+---
+| Paso | Vaso |
+| -------- | -------- |
+| Sostenga el vaso en un ángulo de 45° grados con respecto a la botella, apuntando el vertido hasta la mitad del vaso
+| **Terminar y servir** | Incline suavemenete el vaso en posición vertical cuando esté medio lleno y termine de verter. |
+
