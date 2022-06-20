@@ -1,0 +1,3 @@
+- Bar Mixato Recipe Cards: ***30/30***
+- Certification Check - Black Eagle: ***11/11***
+- Certification Check - Chemex: ***3/5***

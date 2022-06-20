@@ -10,9 +10,10 @@
 
 | **Explica lo que amamos de...** | **Y** | **N** | **Comentarios** |
 | --------------------------- | --- | --- | ------------ |
-| El socio comparte lo que le encanta de las bebidas preparadas en el Black Eagle | | | |
+| El socio comparte lo que le encanta de las bebidas preparadas en el Black Eagle. | | | |
 
 <!-- TODO: Revisar definicion en "tapete" -->
+<!-- TODO: Revisar palabra cerveza -->
 
 | **Flujo de trabajo espresso:** | **Habilidades Espresso Demostradas** | **Y** | **N** | **Comentarios** |
 | --------------------------- | ---------------------------- | --- | --- | ------------ |
