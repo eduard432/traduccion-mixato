@@ -93,4 +93,4 @@
 | **Gestión del tiempo** |
 | El timepo de presentación fue de 10 a 15 minutos. El socio presentó la degustación de café en tiempo y forma, brindando la información adecuada en equilibrio con la degustación es decir, el compañero compartió la suficiente información acerca del café. |
 | **Conocimiento del café** |
-| _Pregunte: Compara al menos 2 diferencias entre **Coffe Press** u otro método de preparación._ | | | |
+| _Pregunte: Compara al menos 2 diferencias entre **Coffe Press** u otro método de preparación._ |
