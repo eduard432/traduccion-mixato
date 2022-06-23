@@ -6,5 +6,6 @@
 - Certification Check - Pour Over Cone: ***6/6***
 - Certification Check - Siphone: ***6/6***
 - Craft Workflows ***7/7***
+- Job Aid - Chit Standards ***3/3***
 
-## ***Total: 74/457***
+## ***Total: 77/457***
