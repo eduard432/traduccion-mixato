@@ -7,5 +7,7 @@
 - Certification Check - Siphone: ***6/6***
 - Craft Workflows ***7/7***
 - Job Aid - Chit Standards ***3/3***
+- Job Aid - Chit System ***1/1***
+- Job Aid - Degassing Coffee ***0/1***
 
-## ***Total: 77/457***
+## ***Total: 78/457***
