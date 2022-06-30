@@ -8,6 +8,7 @@
 - Craft Workflows ***7/7***
 - Job Aid - Chit Standards ***3/3***
 - Job Aid - Chit System ***1/1***
-- Job Aid - Degassing Coffee ***0/1***
+- Job Aid - Degassing Coffee ***1/1***
+- Job Aid - Dialing in Espresso ***1/1***
 
-## ***Total: 78/457***
+## ***Total: 80/457***
