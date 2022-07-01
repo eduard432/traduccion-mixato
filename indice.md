@@ -95,11 +95,11 @@
 - Mixology - Activity 5 Mixed Drink Facilitator Notes - ***0/7***
 - SCEMM - Mixology - ***0/16***
 - Mixology - Training Program Guide - ***0/12***
-- Bar Mixato Program Guide - ***0/30***
-- Bar Mixato Program Guide - ***0/30***
+- Bar Mixato Program Guide - ***9/30***
+<!-- - Bar Mixato Program Guide - ***0/30*** -->
 - SCEMM - Refrigerators Freezers and Ice Machines - ***0/18***
 - SCEMM - Nitro Draft Four Tap - ***0/8***
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 51/580***
+## ***Total: 51/550***
