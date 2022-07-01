@@ -1,7 +1,7 @@
 # Traducción _Mixato_
 
 ---
-## _Páginas Traducidas: **80/457**_
+## _Páginas Traducidas: **81/457**_
 
 
 ### Este es un repositorio para que cualquiera pueda ver y sugerir cambios en la traducción de este proyecto.

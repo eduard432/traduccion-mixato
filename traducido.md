@@ -10,5 +10,6 @@
 - Job Aid - Chit System ***1/1***
 - Job Aid - Degassing Coffee ***1/1***
 - Job Aid - Dialing in Espresso ***1/1***
+- Job Aid - Gift Wrapping ***1/1***
 
-## ***Total: 80/457***
+## ***Total: 81/457***
