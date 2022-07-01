@@ -1,4 +1,4 @@
-- Bar Mixato Recipe Cards: ***30/30***
+<!-- - Bar Mixato Recipe Cards: ***30/30*** -->
 - Certification Check - Black Eagle: ***11/11***
 - Certification Check - Chemex: ***5/5***
 - Certification Check - Clover: ***5/5***
@@ -12,4 +12,4 @@
 - Job Aid - Dialing in Espresso ***1/1***
 - Job Aid - Gift Wrapping ***1/1***
 
-## ***Total: 81/457***
+## ***Total: 51/457***

@@ -6,7 +6,7 @@
 - Job Aid - Siren Retail - Lime Slice Garnish - ***0/1***
 - Job Aid - Siren Retail - Garnish Glossary of Terms - ***0/1***
 - Job Aid - Siren Retail - Orange Wheel Garnish - ***0/1***
-- Job Aid - Degassing Coffee - ***0/1***
+- Job Aid - Degassing Coffee - ***1/1***
 - Mixology QRG - Changing a Keg - ***0/1***
 - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1***
 - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1***
@@ -15,33 +15,33 @@
 - Job Aid - Steaming Milk - ***0/1***
 - QRG - Washing Produce - ***0/1***
 - Mixology QRG - Checking ID - ***0/1***
-- Job Aid - Dialing in Espresso - ***0/1***
-- Job Aid - Chit System - ***0/1***
+- Job Aid - Dialing in Espresso - ***1/1***
+- Job Aid - Chit System - ***1/1***
 - SCEMM - Citrus Juicer - ***0/1***
 - SCEMM - Vienna Refrigerated Cold Pan - ***0/1***
 - Job Aid - Scooped Coffee - ***0/1***
 - SCEMM - Metal Free Pour Spout - ***0/1***
-- SCEMM - ChampagneSaver - ***0/1***
+<!-- - SCEMM - ChampagneSaver - ***0/1*** -->
 - SCEMM - Free Pour Spout - ***0/1***
 - Mixology QRG - Building by the Rounds - ***0/2***
-- Mixology Princi - Stocked Glastender and Two Wine Fridges - ***0/1***
+<!-- - Mixology Princi - Stocked Glastender and Two Wine Fridges - ***0/1*** -->
 - Mixology QRG - Beverage Food Pairings - ***0/1***
-- Job Aid - Gift Wrapping - ***0/2***
+- Job Aid - Gift Wrapping - ***2/2***
 - Mixology - Your Role Welcome and Connect Activity Guide - ***0/2***
 - Mixology - Guiding Orders Activity Guide - ***0/2***
 - Mixology - Activity 1 Theater Activity Guide - ***0/2***
 - Mixology - Your Role Mixology Experience Activity Guide - ***0/2***
 - Mixology - Role of the Bartender Activity Guide - ***0/2***
-- SCEMM - Manual Cold Brew - ***0/2***
+<!-- - SCEMM - Manual Cold Brew - ***0/2*** -->
 - SCEMM - Ditting Grinder - ***0/6***
 - Mixology - Guiding Orders Module - ***0/5***
 - Roastery Barista Training - Food Pairing - ***0/5***
-- Certification Check - Pour Over Cone - ***0/6***
+- Certification Check - Pour Over Cone - ***6/6***
 - Roastery Barista Training - Pour Over - ***0/5***
 - Roastery Barista Training - Coffee Theater - ***0/5***
-- Roastery Barista Training - Siphon - ***0/5***
+- Roastery Barista Training - Siphon - ***5/5***
 - Mixology - Activity 1 Theater Module - ***0/6***
-- Certification Check - Coffee Press - ***0/4***
+- Certification Check - Coffee Press - ***4/4***
 - Mixology - Operations Excellence Activity Guide - ***0/3***
 - Roastery Barista Training - Four Tasting Characteristics - ***0/6***
 - Roastery Barista Training - Passion for Service - ***0/6***
@@ -50,7 +50,7 @@
 - Mixology - Guiding Orders Facilitator Guide - ***0/5***
 - Roastery Barista Training - Chemex - ***0/6***
 - Roastery Barista Training - Tasting and Sharing - ***0/7***
-- Job Aid - Chit Standards - ***0/3***
+- Job Aid - Chit Standards - ***3/3***
 - Roastery Barista Training - Beverage Build - ***0/6***
 - Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***0/3***
 - Mixology - Activity 1 Theater Facilitators Guide - ***0/6***
@@ -64,14 +64,14 @@
 - Roastery Barista Training - Cleaning Espresso - ***0/7***
 - SCEMM - Hoshizaki Ice Machine - ***0/3***
 - Roastery Barista Training - Next Chapter - ***0/6***
-- Certification Check - Chemex - ***0/5***
+- Certification Check - Chemex - ***5/5***
 - Princi Mixology QRG - Italian Wine Regions - ***0/4***
 - Mixology - Bartender Training Plan - ***0/2***
 - Mixology - Activity 3 Beer Basics - ***0/3***
-- Certification Check - Clover - ***0/5***
+- Certification Check - Clover - ***5/5***
 - Roastery Barista Training - Training Plan - ***0/8***
 - SCEMM - Black Eagle - ***0/13***
-- SCEMM - Beer Tap System - ***0/4***
+<!-- - SCEMM - Beer Tap System - ***0/4*** -->
 - Roastery Barista Training - Partner Purpose and Your Roastery - ***0/6***
 - Mixology - Activity 5 Aperitivo Digestivo Basics - ***0/4***
 - Mixology Workflows - ***0/5***
@@ -86,10 +86,10 @@
 - Mixology - Activity 6 Spirit Cocktail Basics - ***0/6***
 - Mixology - Activity 4 Wine Basics - ***0/4***
 - Roastery Barista Training - Manager Support Kit - ***0/11***
-- Bar Mixato Recipe Cards - ***0/30***
-- Craft Workflows - ***0/7***
-- Certification Check - Black Eagle - ***0/11***
-- Alcohol Management System (AMS) User Guide - Siren Retail - ***0/28***
+<!-- - Bar Mixato Recipe Cards - ***0/30*** -->
+- Craft Workflows - ***7/7***
+- Certification Check - Black Eagle - ***11/11***
+<!-- - Alcohol Management System (AMS) User Guide - Siren Retail - ***0/28*** -->
 - Service Workflows - ***0/17***
 - Mixology - Activity 3 Beer and Wine Facilitator Notes - ***0/6***
 - Mixology - Activity 5 Mixed Drink Facilitator Notes - ***0/7***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 0/646***
+## ***Total: 51/580***
