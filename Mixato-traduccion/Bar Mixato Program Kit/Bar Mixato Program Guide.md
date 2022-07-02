@@ -326,4 +326,132 @@ Herramientas: Use la Tabla de Pedidos de Mixology para asegurarse de realizar un
 #### Transferencias
 - Los requisitos legales prohíben la transferencia de alcohol.
 - La transferencia del producto puede resultar en una acción correctiva hasta, e incluyendo la separación inmediata del empleo. Si necesita un producto adicional y necesita ayuda, comuníquese con su LSR de inmediato o con su distribuidor, según corresponda.
-- Existen ciertas excepciones, según el tipo de licencia de licor que tenga su tienda. Consulte el documento de requisitos de licencia de licor de su tienda para obtener más información
+- Existen ciertas excepciones, según el tipo de licencia de licor que tenga su tienda. Consulte el documento de requisitos de licencia de licor de su tienda para obtener más información.
+
+#### Entrega del alcohol
+- Inspeccione con precisión todos los artículos de alcohol a medida que llega el product. El socio revisa y firma la factura del distribuidor. Un socio **debe** reunirse con el repartidor para confirmar que las cantidades en el recibo coincidan con los artículos entregados. La aprobación de recibos en AMS es fundamental, Ingrese todos los ajustes con precisión en AMS.
+
+- El socio debe remitir al distribuidor al proveedor de pago "Fintech" para el pago. **No proporcione el pago en efectivo** bajo ninguna circustancia. El distribuidor enviará una orden de compra a trabés del proveedor de pago y el proveedor de pago paga al distribuidor dentro de las legalidades estatales.
+- Si el producto se dañó durante la entrega, registre el problema en AMS y cargue fotos del producto dañado.
+- Mueva el producto a un lugar de almacenamiento seguro en un periodo máximo de una hora despues de la entrega (o tan pronoto como sea posible). <br/>
+Los lugares de almacenamiento incluyen la jaula de almacenamiento con cerradura, el refrigerador BOH o el refrigerador debajo del mostrador en la parte delantera de la tienda.
+---
+
+### Página 14
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Gestión de inventario (continuación)
+#### Almacenamiento, vida útil y etiquetado de fecha (parte trasera de la tienda)
+| **Producto** | **Vida Útil/Calidad del Producto** |
+| ------------ | ---------------------------------- |
+| Vino | <ul><li>El vino blanco y espumoso debe almacenarse horizontalmente en el refrigerador</li><li>El vino tinto debe almacenarse horizontalmente en la jaula de seguridad. Esto evita que el corcho se seque y evita que entre aire en la botella</li><li>Cuando guarde una entrega, feche el exterior de la caja con la fecha de entrega. Use el sistema "primero en entrar, primero en salir" (FIFO por sus siglas en inglés) para garantizar que el producto más antiguo se use primero</li><li>Una vez que el vino blanco y el vino espumoso han sido refrigerados, deben permanecer refrigerados hasta que se sirvan.</li></ul> |
+| Cerveza/Sidra | Sin abrir: <br/> <ul><li>Escriba la fecha de vencimiento en cada caja a medida que la recibe. Para determinar la fecha de caducidad: <br/> <ul><li>"Úselo antes de la fecha de caducidad que indique en las botellas/latas de cerveza"</li><li>Si tiene una "fecha de envasado", **la cerveza debe usarse dentro de los cuatro meses posteriores a la fecha de nacimiento**</li></ul></li><li>La cerveza debe almacenarse bajo refrigeración cuando sea posible para mantener el sabor y la frescura</li><li>Una vez que la cerveza ha sido refrigerada, debe permanecer refrigerada hasta ser servida.</li></ul> |
+| Spirits | <ul><li>Debe almacenarse a temperatura ambiente.</li></ul> |
+
+**Nota:** Si el espacio de refrigeración es limitado, priorice de la siguiente manera:
+- Vino Blanco, Vino Espumoso, Cerveza y Sidra
+- El Vino Tinto debe almacenarse a temperatura ambiente
+- El alcohol debe almacenarse a temperatura ambiente
+---
+
+### Página 15
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Gestión de inventario (continuación)
+#### Almacenamiento, vida útil y etiquetado de fecha (parte trasera de la tienda)
+- El ahorrador de vino Vacu Vin® es una bomba de vacío, que extrae el aire de la botella abierta y lo vuelve a sellar con un tapón de goma reutilizable.
+- El vació ralentiza el proceso de oxidación lo que alarga la vida útil del vino. El uso de este sistema prolonga la vida útil del vino abierto durante tres días.
+- Asegúrese de que el ahorrador de vino Vacu Vin® se use y se bombee por completo al final de cada día.
+
+<!-- TODO: Checar "well" (caja) -->
+
+| **Producto** | **Vida útil/Calidad del Producto** |
+| ------------ | ---------------------------------- |
+| Vino | <ul><li>Tres días desde la apertura utilizando el ahorrador de vino Vacu Vin®</li><li>Escriba la fecha de caducidad (3 días desde la apertura) en la etiqueta posterior de la botella.</li><li>Deseche cualquier vino caducado. El producto no puede ser donado.</li><li>El vino fortificado (Vermut) tiene una caducidad de un mes una vez abierto. Si se usa vino fortificado, se puede almacenar en la caja. Si no, debe ser refrigerado</li></ul> |
+| Cerveza/Sidra | <ul><li>Use la fecha de caducidad para rotar la cerveza almacenada. La etiqueta de fecha no es necesaria.</li><li>Debe servirse de inmediato, la cerveza artesanal **no tiene vida útil abierta.**</li><li>Marque y sirva cualquier cerveza artesanal después de la fecha de caducidad</li><li>El producto no puede ser donado</li></ul> |
+| Spirits | <ul><li>Debe almacenarse a temperatura ambiente, con la excepción de licores fortificados que deben almacenarse cuando no estén en uso.</li><li>Vida útil ilimitada, con excepción de bebidas spirits fortificadas, que tienen una vida útil de un mes.</li></ul>
+---
+#### Temperaturas de servicio para el alcohol
+Antes de servir vino blanco, vino espumoso y cerveza, debe enfriarse adecuadamente:
+| **Vino Blanco** | **Vino espumoso** | **Cerveza/Sidra** |
+| --------------- | ----------------- | ----------------- |
+| 45-50°F (7-10°C) | 40-45°F (4-7°C) | 36-40F° (2-4°C) |
+
+**Nota:** El vino tinto debe servirse a temperatura ambiente.
+---
+
+### Página 16
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Gestión de inventario (continuación)
+#### Inventario Semanal
+El alcohol se contará todas las semanas como parte del Conteo Semanal de Departamento. Cada tipo y marca de alcohol tendrá su propio número de artículo para contar. Verifique todas las áreas donde se guarda el producto, incluido el frente y la parte posterior de la tienda, el ambiente y el refrigerado para asegurarse de que se cuenten todos los artículos.
+
+Cuante las boteññas de alcohol que se utilizan para fines de exhibición.
+
+**Vino**
+- El vino se puede contar por caja o botella
+- Las cajas completas se pueden contar usando la unidad de medida de la caja.
+- Las botellas sin abrir deben contarse usando la unidad de medida de la botella.
+- Las botellas abiertas no deben contarse.
+
+**Cerveza/Sidra**
+
+- La cerveza se puede contar por caja o botella.
+- Las cajas completas se puden contar en el sistema usando la unidad de medida de la caja.
+- Las botellas deben contare utilizando la medidad correspondiente.
+
+**Spirits**
+
+- La cerveza se puede contar por caja o botella.
+- Las cajas completas se puden contar en el sistema usando la unidad de medida de la caja.
+- Las botellas deben contare utilizando la medidad correspondiente.
+
+**Ejemplo:** puede tener una caja completa de cerveza IPA y 4 botellas individuales. Al ingresar en la hoja de conteo de inventario contaría 1 caja y 4 botellas/cada una.
+---
+
+### Página 17
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Limpieza y Mantenimiento de Equipos
+#### Doble lavado de manos
+
+En la estación Bar Mixato™, es importante que mantegamos nuestros estándares de seguridad alimentaria e higiene de manos. Por lotanto, los socios en la estación Bar Mixato™, están obligados a realizar doble lavado de manos. Al seguir estos pasos, los socios ayudarán a garantizar que nuestras bebidas sigan siendo seguras para el consumo de los clientes:
+
+1. Mójese las manos con agua tibia.
+2. Aplique jabón y frote las manos y las muñecas durante al menos 10-15 segundos. <br/> **Nota:** Lávese entre los dedos, alrededor de las uñas, las cutículas, los nudillos y la parte superior de las manos.
+3. Enjuague bien con agua corriente tibia.
+4. Repita los pasos 2 y 3.
+5. Séquese las manos con una toalla de papel.
+6. Use la toalla de papel para cerrar el grifo.
+
+#### Lavavajillas
+La adición de vajilla de vidrio para vino y cerveza requiere un procedimiento de lavado diferente. Para evitar manchas, lave solo vasos de vino y cerveza por separado de todos los demás equipos y vajilla.
+
+#### Ficha de Datos de Seguridad (SDS por sus siglas en inglés)
+Se puede encontrar una SDS en el Centro de Socios para:
+- Detergente para lavavajillas a máquina SUPRA™
+- Esteem DRY-ALL
+
+#### Rack para Lavavajillas
+- Recibirá estantes de lavados de vasos seccionados para usar con los vasos Bar Mixato™ solamente. Estos bastidores reducirán el astillado y la rotura de la cristalería delicada.
+- Este lavavajillas requiere un agente de enjuague adicional, **Esteem Dry All** y se puede pedir a través del proceso estándar en IMS. La SDS está disponible en el Centro de Socios.
+---
+
+### Página 18
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Limpieza y Mantenimiento de Equipos (continuación)
+#### Cristalería para bebidas
+Revise los estándares de vidrio, la rotura de vidrio y los procedimintos de limpieza que se encuetran en el _Manual de Seguridad Alimentaria_
+
+| Contenedores vaciós de vasos. Coloque los vasos en el rack y páselos por el lavavasos. | Permita que se seque completamente al aire antes de regresar a las áreas de almacenamiento. |
+| ----------------- |  ------------ |
+| [Foto] | [Foto] |
+| Devuelva el servicio a las áreas de almacenamiento designadas. Almacene en un lugar cubierto o invertido sobre una superficie limpia y seca. Para evitar astillarse y rayarse, las no deben apilarse. | Evite almacenar vasos en los gabinetes de la concina junto a artículos con olor fuerte, que pueden transferirse al vaso y afectar el aroma del vino o la cerveza. |
+
