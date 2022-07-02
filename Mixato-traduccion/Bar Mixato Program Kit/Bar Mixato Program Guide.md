@@ -221,3 +221,109 @@ Los socios deben seguir los siguientes pasos al dirigirse a un cliente intoxicad
 - Mantenga las llaves de almacenamiento de alcohol en las llaves del controlador de efectivo y guarde un juego de repuesto en la caja fuerte. <br/> El manejo de las llaves almacenamiento de alcohol sigue los mismos protocolos que las llaves del controlador de efectivo.
 - El controlador de efectivo es responsable de asegurar todo el acohol. Todos los productos deben mantenerse bajo llave antes del servicio y luego asegurados antes de salir de la tienda.
 - El alcohol que se exhibe detrás del mostrador puede permanecer fuera y no es necesario guardarlo bajo llave.
+---
+
+### Página 10
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+#### Mantenimiento de registros
+Documentar y revisar periódicamente los incidentes en busca de patrones u otros problemas constantes permite a los socios aprender y realizar mejoras sobre cómo manejar situaciones en el futuro. Cualquier socio puede documentar un problema que pueda haber ocurrido durante el día. <br/>
+Mantener registros, incluidos los permisos de socios, es esencial para:
+- Minimizar la responsabilidad de Starbucks
+- Asegurar el cumplimiento legal continuo
+- Registrar los detalles de un incidente que puede ser importante años después del hecho.
+
+La documentación puede incluir pero no se limita a:
+- Rechazar el servicio a un cliente
+- Una visita de un agente de la ley
+- Una venta notable
+- Llamar a un taxi para un cliente
+
+Los socios deben registrar actividad **inusual** en la tienda relacionada con la venta y servicio de alcohol.<br/>
+Siga los procedimientos de comunicación actualmente documentados para que su tienda registre la actividad.
+
+Los socios deben tener en cuenta los detalles complementos de situaciones o incidentes potencialmente preocupantes relacionados con la venta o el servicio de alcohol. Anote todos los eventos significativos y comuníquese con el gerente de la tienda.
+
+Para situaciones o incidentes potencialmente preocupantes, los socios deben registrar:
+- Fecha y hora
+- Servidor y administrador involucrados
+- Nombres de clientes y socios que presenciaron el incidente
+- Descripciones físicas de cualquier cliente intoxicado
+- Complete la información de contacto del cliente en caso de que sea necesario contactar al cliente en el futuro
+- Consulte el _Manual de Seguridad y Protección_ para obtener más información.
+
+Los socios también deben completar un Informe de incidente de Starbucks. Ejemplos de tales situaciones pueden incluir:
+- Rechazar el servicio de alcohol a un cliente menor de edad o intoxicado
+- Rechazar una identificación falsa
+- Conducta desordenada
+- Llmara a la policía a la tienda
+---
+
+### Página 11
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+#### Violaciones de políticas
+- El incumplimiento de los estándares y procedimientos de servicio de bebidas alcohólicas puede dar lugar a acciones con medidas correctivas, incluyendo la pérdida de turnos programados y/o medidas disciplinarias hasta e incluyendo la separación del empleo. Es importante que se comunique de inmediato con el Centro de Soporte de Recirsos para Socios (PRSC por sus siglas en inglés) y con su administrador de recursos para socios para determinar los próximos pasos cuando se produzca una infracción de la política.
+- En caos de una infracción que resulte en una citación, llame de inmediatamente a su socio gerente de recursos para determinar los próximos pasos y comuníquese con el equipo de Cumplimietno de Alcohol en alcoholcompliance@starbucks.com. Complete un formulario de informe de incidentes dentro de las 24 horas. <br/>
+Las citaciones pueden resultar en sanciones tales como multas, capacitación adicional, publicación de avisos públicos y/o la suspensión o revocación de la licencia de licor de la tienda. Trabaje con su gerente para determinar cómo ejecutar las acciones requeridas y recomendaciones.
+- Los gerentes de las tiendas son responsalbes de comunicarse con su líder y relaciones con los medios de inmediato y garantizar que las tiendas cumplan con todas las acciones requeridas y recomendadas.
+---
+### Siriviendo a nuestros Clientes
+#### Tareas de apertura y cierre
+Consulte los siguientes documentos para conocer los procedimientos diarios de apertura, mediodía y cierre:
+- Cuaderno de lista de turnos
+- Manual de Limpieza de Tiendas y Mantenimiento de Equipos (SCEMM por sus siglas en inglés)
+- Páginas SCEMM de equipos adicionales
+---
+
+### Página 12
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Siriviendo a nuestros Clientes (continuación)
+#### Identificación del cliente
+Cuando se compre alcohol de cualquier tipo, aparecerá un mensaje para recordar a los socios que verifiquen la identificación. <br/>
+Los socios deben verificar la identificación del cliente para cualquier cliente que parezca tener menos de 40 años y desee comprar alcohol. La pantalla solo aperecerá una vez por transacción, independientemente de cuántas bebidas se pidan.
+
+- La siguiente lista incluye **formas aprobadas** de identificación del cliente, aceptadas en todso los estados. Consulte los requisitos de licencia de bebidas alcohólicas de su ubicación para obtener formas de identificación adicionales aceptadas en su estado específico.
+    - Licencia de conducir válida o tarjeta de identificación emitida por cualquier estado.
+    - Tarjeta de identificación militar válida.
+    - Pasaporte válido de México o extranjero
+
+Si un cliente ordena una bebida e indica que la bebida es para otra persona, el socio debe verificar la identificaciónde ambos clientes.
+
+Si un cliente presenta una identificación que no está en la lista, el socio debe explicar la política de Starbucks sobre las formas de identificación aceptadas para minimizar el riesgo y garantizar la seguridad de los clientes de Starbucks y la comunidad.
+
+**Importante:** los socios mo pueden vender ni servir alcohol a ningún cliente que:
+- Es menor de 21 años
+- Se niega o no puede proporcionar una identificación adecuada
+- Parece estar visiblemente intoxicado
+
+**¿Cuándo Vender/Servir?**
+- El horario de servicio de bebidas alcohólicas es único para cada ubicación; consulte el documento de requisitos de licencia de bebidas alcohólicas para conocer los horarios legales de servicio de bebidas alcohólicas.
+- La última llamada es treinta (30) minutos antes del cierre de la tienda. No se debe vender alcohol después de este tiempo. <br/>Los socios cumplirán con los requisitos locales en cunato a los horas del día en las que se puede servir alcohol.
+- En algunos estados, el alcohol que se compra en las instalaciones con con licencia no se puede retirar de las instalaciones, a excepción de una botella de vino que se compre con una comida y no se terminó. Los socios deben volver a sellar la botella con un corcho y colocar la botella en una bolsa para el cliente antes de permitirles retirar la botella del clocal. Tenga en cuenta que esta excepción no se aplica a ningún alcohol además del vino. Consulte el documento de requisitos de licencia de licor de su ubicación para obtener más detalles y excepciones.
+---
+
+### Página 13
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Gestión de inventario
+Esta sección contiene información específica para la gestión de inventario del programa Bar Mixato™. Las agencias locales y estatales regtulan de cerca las ventas y el inventario de alcohol. Se requiere que los socios mantengan registros estrictos y un inventario seguro de alcohol.
+
+La Guía de Recursos del Sistema de Administración de Alcohol y Administración de Inventario (AMS por sus siglas en Inglés) contiene información completa sobre la administración de inventario.
+
+#### Ordenar alcohol
+Según su ubicación, el alcohol se pude a través del Sistema de gestión de alcohol (AMS) o directamente a través de un distribuidor. Las tiendas no pueden comprar alcohol afuera de los enumerados en su tabla de pedidos. Las tiendas solo pueden pedir alcohol de la lista aprobada y de distribuidores autorizados.
+
+Herramientas: Use la Tabla de Pedidos de Mixology para asegurarse de realizar un pedido míninmo para cada distribuidor.
+
+**Importante**: La tabla proporciona el PEDIDIO MÍNIMO para cada distribuidor. Si no cumples con el mínimom no recibirás el pedido. Las cantidades mínimas de pedido del distribuidor varían, así que asegúrese de consultar la cuadrícula al realizar los pedidos.
+
+#### Transferencias
+- Los requisitos legales prohíben la transferencia de alcohol.
+- La transferencia del producto puede resultar en una acción correctiva hasta, e incluyendo la separación inmediata del empleo. Si necesita un producto adicional y necesita ayuda, comuníquese con su LSR de inmediato o con su distribuidor, según corresponda.
+- Existen ciertas excepciones, según el tipo de licencia de licor que tenga su tienda. Consulte el documento de requisitos de licencia de licor de su tienda para obtener más información
