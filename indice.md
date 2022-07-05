@@ -46,9 +46,9 @@
 - Roastery Barista Training - Four Tasting Characteristics - ***0/6***
 - Roastery Barista Training - Passion for Service - ***0/6***
 - Roastery Barista Training - Coffee Press - ***0/6***
-- Roastery Barista Training - Coffee Flight - ***0/6***
+- Roastery Barista Training - Coffee Flight - ***6/6***
 - Mixology - Guiding Orders Facilitator Guide - ***0/5***
-- Roastery Barista Training - Chemex - ***0/6***
+- Roastery Barista Training - Chemex - ***6/6***
 - Roastery Barista Training - Tasting and Sharing - ***0/7***
 - Job Aid - Chit Standards - ***3/3***
 - Roastery Barista Training - Beverage Build - ***6/6***
@@ -61,7 +61,7 @@
 - Roastery Barista Training - Pulling Shots - ***0/6***
 - Roastery Barista Training - Consolidator and Runner - ***0/6***
 - Roastery Barista Training - Steaming Milk - ***0/6***
-- Roastery Barista Training - Cleaning Espresso - ***0/7***
+- Roastery Barista Training - Cleaning Espresso - ***7/7***
 - SCEMM - Hoshizaki Ice Machine - ***0/3***
 - Roastery Barista Training - Next Chapter - ***0/6***
 - Certification Check - Chemex - ***5/5***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 87/550***
+## ***Total: 106/550***

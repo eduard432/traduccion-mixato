@@ -6,6 +6,7 @@
 
 Las construcciones de bebidas son cómo nos referimos a juntar los ingredientes de las bebidas para hacer nuestras bebidas exclusivas de café expreso y té. Usamos el flujo de trabajo Espreso Bar para elaborar bebidas excepcionales que brindan la experiencia de tostado y reserva a nuestros clientes. En tu capacitación digital aprendiste los conceptos básicos de cómo  
 construir bebidas. Ahora, pondrás en práctica esos aprendizajes.
+
 ---
 
 #### Objectivos de aprendizaje
@@ -27,7 +28,7 @@ Depués de completar esta actividad, los baristas deberían poder:
 - Está actividad tomará 60 minutos para completar
 - Revise los siguientesmateriales:
   - Esta guía de actividades
-  - Guí de discusión
+  - Guía de discusión
 - Asegúrese de tener los siguientes suministros:
   - Atlas de Exploración de Café
   - Tarjetas de Preparación de Bebidas
@@ -49,7 +50,7 @@ Depués de completar esta actividad, los baristas deberían poder:
 | Eseñar el Flujo de Trabajo Espresso Bar | 15 minutos |
 | Práctica | 25 minutos |
 | Hacer un seguimiento | 2 minutos |
-| **Duración Total:** | 60 minutos |
+| **Duración Total:** | **60 minutos** |
 ---
 ### Página 3
 
@@ -63,7 +64,7 @@ Describa la importancia de elaborar bebidas a la perfección siguiendo las Tarje
 - Las Tarjetas de Preparación de Bebidas aseguran una bebida elaborada consistentemente.
 
 #### Que esperar
-Explique al barista lo que puede esparar en esta actividad:
+**Explique al barista lo que puede esparar en esta actividad:**
 - Te presenteré la elaboración de múltiples bebidas en la posción del bar.
 - Primero, te mostraré los productos y herramientas necesarios para elaborar bebidas en el bar.
 - A continuación, le demostraré y le enseñare cómo elaborar bebidas en espresso bar siguiendo el flujo de Trabajo Espreso Bar.
@@ -76,7 +77,7 @@ Hágale al barista las siguientes preguntas:
 ---
 ### Página 4
 
-## ROASTERY & RESERVE BARISTA CONSTRUCCIÓN DE BEBIDAS - PRESNTACIÓN Y PRÁCTICA
+## ROASTERY & RESERVE BARISTA CONSTRUCCIÓN DE BEBIDAS - PRESENTACIÓN Y PRÁCTICA
 
 ### 2. Observar
 **Hacer:** con el barista, observe la posición del Espresso Bar. <br/> Resalta lo siguiente con el barista:
@@ -93,7 +94,7 @@ Hágale al barista las siguientes preguntas:
 ---
 ### Página 5
 
-## ROASTERY & RESERVE BARISTA CONSTRUCCIÓN DE BEBIDAS - PRESNTACIÓN Y PRÁCTICA
+## ROASTERY & RESERVE BARISTA CONSTRUCCIÓN DE BEBIDAS - PRESENTACIÓN Y PRÁCTICA
 
 ### 4. Eseñe el Flujo de Trabajo Espresso Bar
 **Hacer:** Siguiendo el Flujo de Trabajo Espresso Bar, enseñe al barista cómo elaborar las siguientes bebidas:
