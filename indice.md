@@ -51,7 +51,7 @@
 - Roastery Barista Training - Chemex - ***0/6***
 - Roastery Barista Training - Tasting and Sharing - ***0/7***
 - Job Aid - Chit Standards - ***3/3***
-- Roastery Barista Training - Beverage Build - ***0/6***
+- Roastery Barista Training - Beverage Build - ***6/6***
 - Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***0/3***
 - Mixology - Activity 1 Theater Facilitators Guide - ***0/6***
 - Mixology - Activity 3  Beer Basics Service and Tasting Activity Guide - ***0/3***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 81/550***
+## ***Total: 87/550***

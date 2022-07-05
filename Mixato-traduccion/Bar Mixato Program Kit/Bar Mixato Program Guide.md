@@ -893,5 +893,5 @@ Ginebra, campari y vermú dulce. Adornando con cascara de naranja y expresión.
 - [Tarjetas de recetas de bebidas]()
 - [Guías de adorno]()
 - [Ayudas de trabajo y guías de referencia rápida]()
-- [Tarjetas de preparación de recetas]()
+- [Tarjetas de preparación de bebidas]()
 - [SCEMM]()
