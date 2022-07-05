@@ -454,4 +454,444 @@ Revise los estándares de vidrio, la rotura de vidrio y los procedimintos de lim
 | ----------------- |  ------------ |
 | [Foto] | [Foto] |
 | Devuelva el servicio a las áreas de almacenamiento designadas. Almacene en un lugar cubierto o invertido sobre una superficie limpia y seca. Para evitar astillarse y rayarse, las no deben apilarse. | Evite almacenar vasos en los gabinetes de la concina junto a artículos con olor fuerte, que pueden transferirse al vaso y afectar el aroma del vino o la cerveza. |
+---
 
+### Página 19
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles exculsivos
+#### Starbucks Reserve® • Boulevardier
+
+Una esfera cristalina se coloca en un vaso spritz. El jarabe de vainilla, el whisky Knob Creek Single Barrel, Campari, el Vermú Dulce Carpano Antica se combianan en un vaso mezclador con hielo y se agitan. Luego, la mezcla se vierte sobre café recién molido a través de un Hario V60 y se filtra en una jarra. Luego, la bebida se vierte en un vaso Spritz y se termina con una pizca de amargo de lavanda de _Scrappy_.
+
+| **STARBUCKS RESERVE BOULEVARDIER** |
+| ---------------------------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- Hielo 1x1 de Hoshizaki
+- Sirope de Vainlla Añejado en Barril
+- Campari
+- Vermú Dulce Carpano Antica
+- Amargo de lavanda de _Scrappy_
+- Esfera de Hielo (1.75"/4.45cm)
+- Café (molido en el ajuste _Ditting #5_)
+- Whiskey puro de Bourbon Woodinville
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Verter sobre soporte
+- Cono Hario V60 (vidrio transparente)
+- Filtros v60
+- Jigger
+- Recipiente para mezclar
+- Copa de vino Spritz
+- Cuchara para hielo
+
+**Fuente de pedido: [Link](https://thecoffeeregistry.com/collections/pour-over-stands/products/the-explorer-pour-over-stand)**
+
+- Pinzas de hielo
+- Cuchara de bar larga
+- Colador Julep
+- Jarra de vidrio - 8.5 oz.
+
+| EQUIPO |
+| ------ |
+
+- Maquina de hielo Hoshizaki
+- Congelador para hielo esférico
+- Molino de café
+---
+
+### Página 20
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles exculsivos (continuación)
+#### The Whiskey Cloud
+
+El vaso "American Con Crema" se precalienta y luego se llenca con café Roastery Exclusive, whisky Westland Single Malt, Averna Amaro, jarabe de piloncillo de naranja, _Scrappy's Chocolate Bitters._ Luego la bebida se termina con crema fría suavemente batida y se espolvorea con nuez moscada.
+
+| **THE WHISKEY CLOUD** |
+| --------------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+<!-- TODO: Heavy Cream -> Crema para batida -->
+
+- Agua Caliente
+- _Scrappy's Chocolate Bitter_
+- Crema para batir
+- Whisky Westland Single Mat
+- Café (molido en el ajuste _Ditting #5_)
+- Jarabe de piloncillo de naranja
+- Nuez moscada entera (rallada)
+- Averna Amaro
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Prensa de café de 3 tazas
+- Coctelera (para crema)
+- Bandeja pequeña de madera
+- Rallador de especias Microplane
+- Vaso con crema (taza con asa de vidrio)
+- Jigger
+- Temporizador
+- Servidor de crema de cerámica
+- Boquillo de vertido
+
+| EQUIPO |
+| ------ |
+
+- Caldera de agua caliente
+- Molino de café
+---
+
+### Página 21
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles exculsivos (continuación)
+#### Starbucks Reserve® • Espresso Martini
+
+El espresso batido con vodka Kalak Single Malt y jarabe de vainlla envejecido en barri crea un cóctel espumo que se termina con una ralladura de chocolate amargo.
+
+| **STARBUCKS RESERVE® • ESPRESSO MARTINI** |
+| INGREDIENTES DE LA BEBIDA |
+
+- Reserve Espresso
+- Hielo Hoshizaki 1x1
+- Chocolate negro (rallado)
+- Vainilla envejecido en barrica
+- Vodka Kalak Single Malt
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Pala para hielo
+- Coctelera
+- Boquillas de vertido
+- Filtro Hawthrome
+- Jigger
+- Microplano
+- Copa de Martini Rona
+- Colador de malla fina
+
+| EQUIPO |
+| ------ |
+
+- Máquina de espresso Black Eagle
+- Máquina de hielo Hosizaki
+- Molino de café
+---
+
+### Página 22
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles exculsivos (continuación)
+#### Starbucks Reserve® • Siciliano
+
+Cold Brew, Averna Amaro, Carpano Antica Sweet Vermouth y amargos de naranja cubiertos con agua con gas crean la versión Starbucks Reserve® del clásico Siciliano.
+
+| **STARBUCKS RESERVE® • Siciliano** |
+| INGREDIENTES DE LA BEBIDA |
+
+- Concentrado de cerveza fría
+- Hielo Hoshizaki 1x1
+- Club Soda
+- Bitter de naranja de _Scrappy_
+- Carpano Antica Sweet Vermouth
+- Cascara de naranja y expresión
+
+| UTENSILIOS y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Recipiente mezclador
+- Cuchara para hielo
+- Boquillas vertedoras
+- Cuchara de bar larga
+- Colador Julep
+- Pelador en Y
+- 8oz. cupé de vidirio
+
+| EQUIPO |
+| ------ |
+
+- Máquina de hielo Hoshizaki
+- Toddy® Brewer y filtros (cold brew)
+---
+
+### Página 23
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles clásicos
+#### Starbucks Reserve® • Old Fashioned
+
+Whisky, Carpano Antica Sweet Vermouth, Bitters Aromáticos _Scrappy's_ y Bitters de Naranja _Scrappy's_
+
+| **OLD FASHIONEd** |
+| ----------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- Cubo de hielo 2x2
+- Amargos aromáticos de _Scrappy_
+- Jaraba de Demera
+- Cascara de naranja y expresión
+- Bitter de naranja _Scrappy_
+
+| UTENSILIOS y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Pinzas de hielo
+- Caja de adornos
+- Boquillas de vertido
+- Cuchara de bar larga
+- Pelador en Y
+- Vaso de rocas
+
+| EQUIPO |
+| ----- |
+- Congelador (para hielo 2x2)
+---
+
+### Página 24
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles clásicos (continuación)
+#### Starbucks Reserve® • Martini Clásico
+
+A elección del cliente Ginebra o Vodka combinado con vermú seco. Se adorna con aceitunas o cebollas. Agitado o revuelto.
+
+| **MARTINI CLÁSICO (GINEBRA O VODKA)** |
+| --------------------------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- Ginebra
+- Hielo Hoshizaki 1x1
+- Brocheta de cóctel
+- Vodka
+- Vermú Extra Seco
+- Aceitunas o Cebollas (adorno)
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Recipiente de mezcla
+- Pala de hielo
+- Colador Hawthorne
+- Vertedor
+- Cuchara de bar larga
+- Colador Julep
+- Coctelera
+- 7.5oz copa martini rona
+- Brocheta de cóctel
+
+| EQUIPO |
+| ------ |
+
+- Máquina de hielo Hoshizaki
+---
+
+### Página 25
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles clásicos (continuación)
+#### Starbucks Reserve® • Manhattan
+
+Whisly, Carpano Anitica Sweet Vermouth y amargos aromáticos. Adornado con una cereza Marichino.
+
+| **Manhattan** |
+| ------------- |
+| INGREDIENTES DE LA BEBIDA |
+- 1x1 hielo Hoshizaki
+- Whisky
+- Cereza
+- Amargos aromáticos de _Scrappy_
+- Carpano Anitica Sweet Vermouth
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Recipiente de mezcla
+- Caja de adornos
+- Boquilla de vertido
+- Cuchara de bar larga
+- Cuchara para hielo
+- Colador Julep
+- 8oz cupé de vidrio
+
+| EQUIPO |
+| ------ |
+
+- Máquina de hielo Hoshizaki 1x1
+---
+
+### Página 26
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Cócteles clásicos (continuación)
+#### Starbucks Reserve® • French 75
+
+Ginebra, juego de limón y Prosecco. Adornado con expresión de limón.
+
+| **FRENCH 75** |
+| ------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- Ginebra
+- Hielo Hoshizaki 1x1
+- Cascara de limón (adorno)
+- Prosecco
+- Jugo de limón
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Recipiente para mezclar
+- Cuchara para hielo
+- Copa flauta
+- Botella de 375mL
+- Cuchara de bar larga
+- Colador Julep
+- Pelador en Y
+- Vertedor
+- Servidor/servidor de vino Prosecco
+
+| EQUIPO |
+| ------ |
+
+- Máquina de hielo Hoshizaki
+---
+
+### Página 27
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Aperitivo
+#### Starbucks Reserve® • Milano Torino
+
+| **MILANO TORINO** |
+| ----------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- 1x1 hielo Hoshizaki
+- Campari
+- Cascara de naranja y expresión
+- Zucca
+- Carpano Antica Sweet Vermouth
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Pelador en Y
+- Caja de adornos
+- Vertedor
+- Cuchara de bar larga
+- Cuchara para hielo
+- Vaso de rocas
+
+| EQUIPO |
+| ------ |
+
+- Máquina de hielo Hoshizaki 1x1
+---
+
+### Página 28
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Aperitivo
+#### Starbucks Reserve® • Apero Spritz
+
+El más ligero y refrescante de todos nuestros aperitivos. Un toque amargo de pomelo equilibra esta bebida accesible con sabor a naranja y ruibarbo.
+
+| **APEROL SPRITZ** |
+| ----------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- Aperol
+- Agua con gas
+- Hielo Hoshizaki 1x1
+- Prosecco
+- ½ Rodaja de naranja (adorno)
+
+| **UTENSILIOS Y CRISTERIA** |
+| -------------------------- |
+
+- Jigger
+- Cuchara para hielo
+- Tabla de cortar
+- Ahorro/vertedor de vino Prosseco
+- Cuchara de bar larga
+- Cuchillo
+- Vertedor
+- Copa de vino Spritz
+
+| **EQUIPO** |
+| ---------- |
+
+- Máquina de hielo Hoshizaki
+---
+
+### Página 29
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Aperitivo (continuación)
+#### Starbucks Reserve® • Negroni clásico
+
+Ginebra, campari y vermú dulce. Adornando con cascara de naranja y expresión.
+
+| **NEGRONI CLÁSICO** |
+| ------------------- |
+| INGREDIENTES DE LA BEBIDA |
+
+- 1x1 hielo Hoshizaki
+- Campari
+- Cscara de naranja y exprsión
+- Ginebra
+- Carpano Antica Sweet Vermouth
+
+| UTENSILIOS Y CRISTERIA |
+| ---------------------- |
+
+- Jigger
+- Pelador en Y
+- Caja de adornos
+- Boquillas de vertido
+- Cuchara de bar larga
+- Cuchara para hielo
+- Vaso de rocas
+
+| EQUIPO |
+| ------ |
+
+- Máquina de hielo Hoshizaki 1x1
+---
+
+### Página 30
+
+#### Barra Mixato™ - GUÍA DEL PROGRAMA
+---
+### Detalles de bebidas - Recursos de Apoyo
+<!-- TODO: Ajustar Indice -->
+- [Capacitación de baristas]()
+- [Formación de camareros]()
+- [Flujos de trabajo de camarero]()
+- [Tarjetas de recetas de bebidas]()
+- [Guías de adorno]()
+- [Ayudas de trabajo y guías de referencia rápida]()
+- [Tarjetas de preparación de recetas]()
+- [SCEMM]()
