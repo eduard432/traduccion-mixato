@@ -38,7 +38,7 @@
 - Roastery Barista Training - Food Pairing - ***0/5***
 - Certification Check - Pour Over Cone - ***6/6***
 - Roastery Barista Training - Pour Over - ***0/5***
-- Roastery Barista Training - Coffee Theater - ***0/5***
+- Roastery Barista Training - Coffee Theater - ***5/5***
 - Roastery Barista Training - Siphon - ***5/5***
 - Mixology - Activity 1 Theater Module - ***0/6***
 - Certification Check - Coffee Press - ***4/4***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 112/550***
+## ***Total: 117/550***

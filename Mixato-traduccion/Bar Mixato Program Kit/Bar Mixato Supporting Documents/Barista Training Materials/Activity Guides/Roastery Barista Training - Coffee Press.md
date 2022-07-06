@@ -117,4 +117,4 @@ Hable sobre cómo la preparación de un Coffee Press es el momento perfecto para
 | **Notas** |
 | - |
 
-**Nota:** Infórmele a su gerente sobre cualquier actividad que no se completó o donde se necesot amás tiempo de práctica. ¡Asegúrate de anotarlo en el plan de entrenamiento!
+**Nota:** Infórmele a su gerente sobre cualquier actividad que no se completó o donde se necesita más tiempo de práctica. ¡Asegúrate de anotarlo en el plan de entrenamiento!
