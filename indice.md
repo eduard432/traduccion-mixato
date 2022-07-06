@@ -45,7 +45,7 @@
 - Mixology - Operations Excellence Activity Guide - ***0/3***
 - Roastery Barista Training - Four Tasting Characteristics - ***0/6***
 - Roastery Barista Training - Passion for Service - ***0/6***
-- Roastery Barista Training - Coffee Press - ***0/6***
+- Roastery Barista Training - Coffee Press - ***6/6***
 - Roastery Barista Training - Coffee Flight - ***6/6***
 - Mixology - Guiding Orders Facilitator Guide - ***0/5***
 - Roastery Barista Training - Chemex - ***6/6***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 106/550***
+## ***Total: 112/550***

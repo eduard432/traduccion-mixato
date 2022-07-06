@@ -24,7 +24,7 @@ Depués de completar esta actividad, los baristas deberían poder:
 #### Lista de verficación:
 
 - Está actividad tomará 30 minutos para completar
-- Revise los siguientesmateriales:
+- Revise los siguientes materiales:
   - Esta guía de actividades
 - Asegúrese de tener los siguientes suministros:
   - Atlas de Exploración de Café
@@ -111,7 +111,7 @@ Discuta cómo mostrar la Pasión por el Servicio anticipándose a las necesidade
 
 ## ROASTERY & RESERVE BARISTA CONSTRUCCIÓN DE BEBIDAS - SEGUIMIENTO
 
-### 8. Seguimiento
+### 5. Seguimiento
 
 **Diga:** Eso concluye la actividad de hoy. Estás listo para preparar vuelos de café para los clientes.
 
