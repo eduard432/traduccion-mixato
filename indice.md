@@ -59,7 +59,7 @@
 - Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide - ***0/3***
 - Roastery Barista Training - Guiding Customer Orders  - ***0/6***
 - Roastery Barista Training - Pulling Shots - ***0/6***
-- Roastery Barista Training - Consolidator and Runner - ***0/6***
+- Roastery Barista Training - Consolidator and Runner - ***6/6***
 - Roastery Barista Training - Steaming Milk - ***0/6***
 - Roastery Barista Training - Cleaning Espresso - ***7/7***
 - SCEMM - Hoshizaki Ice Machine - ***0/3***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 117/550***
+## ***Total: 123/550***
