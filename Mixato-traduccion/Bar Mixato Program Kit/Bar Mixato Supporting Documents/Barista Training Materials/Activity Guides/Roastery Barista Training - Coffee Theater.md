@@ -60,7 +60,7 @@ Hágale al barista las siguientes preguntas:
 
 #### Que esperar
 Explique el barista lo que puede esperar en esta actividad:
-- Primero, te presentaré el coffee theater y montaré un show mientras preparo café-
+- Primero, te presentaré el coffee theater y montaré un show mientras preparo café
 - A continuación, le demostraré y le enseñaré cómo usar el coffee theater mientras prepara café para un cliente.
 - Finalmente, practicará demostrando coffee theater mientras prepara café
 ---
