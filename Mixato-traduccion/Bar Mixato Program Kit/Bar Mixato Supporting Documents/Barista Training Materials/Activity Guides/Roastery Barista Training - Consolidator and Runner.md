@@ -15,7 +15,7 @@ Depués de completar esta actividad, los baristas deberían poder:
 
 - Describir la posición del consolidor y los pasos clave en el flujo de trabajo
 - Describir la posición del corredor y los pasos clave en el flujo de trabajo
-. Placa y entrega de pedidios precisos a los consumidores
+- Placa y entrega de pedidios precisos a los consumidores
 
 #### Direcciones
 
@@ -30,7 +30,7 @@ Depués de completar esta actividad, los baristas deberían poder:
   - Esta guía de actividades
 - Asegúrese de tener los siguientes suministros:
   - Atlas de Exploración de Café
-  - Flujo de Tranajo de la Experiencia de Entrega del Corredor y del Cliente
+  - Flujo de Trabajo de la Experiencia de Entrega del Corredor y del Cliente
   - Conslidador y Flujo de Trabajo de Consolidación de Pedidos
 ---
 ### Página 2

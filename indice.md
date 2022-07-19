@@ -35,16 +35,16 @@
 <!-- - SCEMM - Manual Cold Brew - ***0/2*** -->
 - SCEMM - Ditting Grinder - ***0/6***
 - Mixology - Guiding Orders Module - ***0/5***
-- Roastery Barista Training - Food Pairing - ***0/5***
+- Roastery Barista Training - Food Pairing - ***5/5***
 - Certification Check - Pour Over Cone - ***6/6***
-- Roastery Barista Training - Pour Over - ***0/5***
+- Roastery Barista Training - Pour Over - ***5/5***
 - Roastery Barista Training - Coffee Theater - ***5/5***
 - Roastery Barista Training - Siphon - ***5/5***
 - Mixology - Activity 1 Theater Module - ***0/6***
 - Certification Check - Coffee Press - ***4/4***
 - Mixology - Operations Excellence Activity Guide - ***0/3***
-- Roastery Barista Training - Four Tasting Characteristics - ***0/6***
-- Roastery Barista Training - Passion for Service - ***0/6***
+- Roastery Barista Training - Four Tasting Characteristics - ***6/6***
+- Roastery Barista Training - Passion for Service - ***6/6***
 - Roastery Barista Training - Coffee Press - ***6/6***
 - Roastery Barista Training - Coffee Flight - ***6/6***
 - Mixology - Guiding Orders Facilitator Guide - ***0/5***
@@ -57,8 +57,8 @@
 - Mixology - Activity 3  Beer Basics Service and Tasting Activity Guide - ***0/3***
 - Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide (1) - ***0/3***
 - Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide - ***0/3***
-- Roastery Barista Training - Guiding Customer Orders  - ***0/6***
-- Roastery Barista Training - Pulling Shots - ***0/6***
+- Roastery Barista Training - Guiding Customer Orders  - ***6/6***
+- Roastery Barista Training - Pulling Shots - ***6/6***
 - Roastery Barista Training - Consolidator and Runner - ***6/6***
 - Roastery Barista Training - Steaming Milk - ***0/6***
 - Roastery Barista Training - Cleaning Espresso - ***7/7***
@@ -72,10 +72,10 @@
 - Roastery Barista Training - Training Plan - ***0/8***
 - SCEMM - Black Eagle - ***0/13***
 <!-- - SCEMM - Beer Tap System - ***0/4*** -->
-- Roastery Barista Training - Partner Purpose and Your Roastery - ***0/6***
+- Roastery Barista Training - Partner Purpose and Your Roastery - ***6/6***
 - Mixology - Activity 5 Aperitivo Digestivo Basics - ***0/4***
 - Mixology Workflows - ***0/5***
-- Certification Check - Siphon - ***0/6***
+- Certification Check - Siphon - ***6/6***
 - Mixology - Your Role Welcome and Connect Module - ***0/11***
 - Roastery Barista Training - Trainer Support Kit - ***0/10***
 - Mixology - Your Role Welcome and Connect Facilitator Guide - ***0/11***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 123/550***
+## ***Total: 169/550***
