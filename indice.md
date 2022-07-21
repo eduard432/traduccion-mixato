@@ -10,16 +10,16 @@
 - Mixology QRG - Changing a Keg - ***0/1***
 - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1***
 - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1***
-- Job Aid - Merchandising Basics - ***0/1***
-- Job Aid - Latte Art Presentation Standard - ***0/1***
-- Job Aid - Steaming Milk - ***0/1***
+- Job Aid - Merchandising Basics - ***1/1***
+- Job Aid - Latte Art Presentation Standard - ***1/1***
+- Job Aid - Steaming Milk - ***1/1***
 - QRG - Washing Produce - ***0/1***
 - Mixology QRG - Checking ID - ***0/1***
 - Job Aid - Dialing in Espresso - ***1/1***
 - Job Aid - Chit System - ***1/1***
 - SCEMM - Citrus Juicer - ***0/1***
 - SCEMM - Vienna Refrigerated Cold Pan - ***0/1***
-- Job Aid - Scooped Coffee - ***0/1***
+- Job Aid - Scooped Coffee - ***1/1***
 - SCEMM - Metal Free Pour Spout - ***0/1***
 <!-- - SCEMM - ChampagneSaver - ***0/1*** -->
 - SCEMM - Free Pour Spout - ***0/1***
@@ -49,7 +49,7 @@
 - Roastery Barista Training - Coffee Flight - ***6/6***
 - Mixology - Guiding Orders Facilitator Guide - ***0/5***
 - Roastery Barista Training - Chemex - ***6/6***
-- Roastery Barista Training - Tasting and Sharing - ***0/7***
+- Roastery Barista Training - Tasting and Sharing - ***7/7***
 - Job Aid - Chit Standards - ***3/3***
 - Roastery Barista Training - Beverage Build - ***6/6***
 - Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***0/3***
@@ -60,7 +60,7 @@
 - Roastery Barista Training - Guiding Customer Orders  - ***6/6***
 - Roastery Barista Training - Pulling Shots - ***6/6***
 - Roastery Barista Training - Consolidator and Runner - ***6/6***
-- Roastery Barista Training - Steaming Milk - ***0/6***
+- Roastery Barista Training - Steaming Milk - ***6/6***
 - Roastery Barista Training - Cleaning Espresso - ***7/7***
 - SCEMM - Hoshizaki Ice Machine - ***0/3***
 - Roastery Barista Training - Next Chapter - ***0/6***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 169/550***
+## ***Total: 185/550***
