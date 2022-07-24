@@ -63,13 +63,13 @@
 - Roastery Barista Training - Steaming Milk - ***6/6***
 - Roastery Barista Training - Cleaning Espresso - ***7/7***
 - SCEMM - Hoshizaki Ice Machine - ***0/3***
-- Roastery Barista Training - Next Chapter - ***0/6***
+- Roastery Barista Training - Next Chapter - ***6/6***
 - Certification Check - Chemex - ***5/5***
 - Princi Mixology QRG - Italian Wine Regions - ***0/4***
 - Mixology - Bartender Training Plan - ***0/2***
 - Mixology - Activity 3 Beer Basics - ***0/3***
 - Certification Check - Clover - ***5/5***
-- Roastery Barista Training - Training Plan - ***0/8***
+- Roastery Barista Training - Training Plan - ***8/8***
 - SCEMM - Black Eagle - ***0/13***
 <!-- - SCEMM - Beer Tap System - ***0/4*** -->
 - Roastery Barista Training - Partner Purpose and Your Roastery - ***6/6***
@@ -77,7 +77,7 @@
 - Mixology Workflows - ***0/5***
 - Certification Check - Siphon - ***6/6***
 - Mixology - Your Role Welcome and Connect Module - ***0/11***
-- Roastery Barista Training - Trainer Support Kit - ***0/10***
+- Roastery Barista Training - Trainer Support Kit - ***10/10***
 - Mixology - Your Role Welcome and Connect Facilitator Guide - ***0/11***
 - Mixology - Your Role Mixology Experience Module - ***0/13***
 - Mixology - Role of the Bartender Module - ***0/8***
@@ -85,7 +85,7 @@
 - Mixology - Your Role Mixology Experience Facilitator Guide - ***0/13***
 - Mixology - Activity 6 Spirit Cocktail Basics - ***0/6***
 - Mixology - Activity 4 Wine Basics - ***0/4***
-- Roastery Barista Training - Manager Support Kit - ***0/11***
+- Roastery Barista Training - Manager Support Kit - ***11/11***
 <!-- - Bar Mixato Recipe Cards - ***0/30*** -->
 - Craft Workflows - ***7/7***
 - Certification Check - Black Eagle - ***11/11***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 185/550***
+## ***Total: 220/550***
