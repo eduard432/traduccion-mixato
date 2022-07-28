@@ -90,7 +90,7 @@
 - Craft Workflows - ***7/7***
 - Certification Check - Black Eagle - ***11/11***
 <!-- - Alcohol Management System (AMS) User Guide - Siren Retail - ***0/28*** -->
-- Service Workflows - ***0/17***
+- Service Workflows - ***117/17***
 - Mixology - Activity 3 Beer and Wine Facilitator Notes - ***0/6***
 - Mixology - Activity 5 Mixed Drink Facilitator Notes - ***0/7***
 - SCEMM - Mixology - ***0/16***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 220/550***
+## ***Total: 237/550***
