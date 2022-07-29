@@ -53,7 +53,7 @@
 - Job Aid - Chit Standards - ***3/3***
 - Roastery Barista Training - Beverage Build - ***6/6***
 - Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***0/3***
-- Mixology - Activity 1 Theater Facilitators Guide - ***0/6***
+- Mixology - Activity 1 Theater Facilitators Guide - ***6/6***
 - Mixology - Activity 3  Beer Basics Service and Tasting Activity Guide - ***0/3***
 - Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide (1) - ***0/3***
 - Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide - ***0/3***
@@ -91,7 +91,7 @@
 - Certification Check - Black Eagle - ***11/11***
 <!-- - Alcohol Management System (AMS) User Guide - Siren Retail - ***0/28*** -->
 - Service Workflows - ***117/17***
-- Mixology - Activity 3 Beer and Wine Facilitator Notes - ***0/6***
+- Mixology - Activity 3 Beer and Wine Facilitator Notes - ***6/6***
 - Mixology - Activity 5 Mixed Drink Facilitator Notes - ***0/7***
 - SCEMM - Mixology - ***0/16***
 - Mixology - Training Program Guide - ***0/12***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 237/550***
+## ***Total: 249/550***
