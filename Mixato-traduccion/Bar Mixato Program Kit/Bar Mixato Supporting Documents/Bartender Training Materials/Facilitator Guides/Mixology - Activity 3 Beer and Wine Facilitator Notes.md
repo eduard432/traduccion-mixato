@@ -24,7 +24,7 @@ BIENVENIDOS:
    - En última instancia, la responsabilidad recae en los cantineros para asegurarse de que no haya menores bebiendo en el bar.
 3. Proporcionar servicio de agua: con estos pensamientos en mente, se debe dar la bienvenida a un cliente dentro de un minuto de su llegada, con contacto visual y un menú. Esto también ayuda a "marcar" el asiento y establecer el compromiso de servicio inicial.
    - Coloque un psavasos a su derecha* y vierta un vaso de agua. Este vaso debe mantenerse lleno durante el transcurso de la estadía, ya que es importante que se mantengan hidratados y sientan que sus necesidades básicas están cubiertas. <br/> *Toma nota si el cliente es zurdo o preferie suvaso a su izquierda, Si es así, ajuste el servicio en consecuencia.
-     - i. Manipulación de la cristalería: Toque la cristalería lo menos posible y cuando lo haga, sujétalo por el punto más bajo posible. Con copas, sostenga el vaso por el tallo. Si pasa una bebida a un cliente que no está sentado en la barra, sujete el pie del vaso para que pueda agarrarlo. Cuando levante un vaso de aguam rocas o highball, tómelo por le punto más bajo,
+      <ol style="list-style-type: lower-roman" ><li>Manipulación de la cristalería: Toque la cristalería lo menos posible y cuando lo haga, sujétalo por el punto más bajo posible. Con copas, sostenga el vaso por el tallo. Si pasa una bebida a un cliente que no está sentado en la barra, sujete el pie del vaso para que pueda agarrarlo. Cuando levante un vaso de agua, rocas o highball, tómelo por le punto más bajo,</li></ol>
 
 ---
 ### Página 2
@@ -33,9 +33,7 @@ BIENVENIDOS:
 
 3. .
    - .
-     - i. con no más de dos y un pulgar. Esto se aplica al servicio y compensación.
-     - ii. Posavasos: los posavasos deben colocarse donde un vaso pueda sudar. No necesitamosposavasos para copas, cerveza en veasos con patas o licores puros. Por regla general, si la copa tiene tallo o pie, o no se sirve fría o con hielom no es necesario colocar un posavasos debajo de la copa.
-     - iii. Posavasos Refrescantes \*Servicio Silencioso\*: Es adecuado tocar una copa una vez que ha sido servido al cliente. Tenga cuidado con los pequeños derrames o la condesación excesiva y los posavasos que se adhieren a los vasos. Cambie el posavaos por uno nuevo cuando el cliente no esté mirando. Simplemente levante el vaso con el dedo medio y el pulgar mientras retira el posavasos con el menique y el anular. Coloque un posavasos nuevo debajo con la otra mano y devuelva el vaso. Idealmente, el cliente nunca se dará cuenta de que es necesario cambiar el posavasos. Simplemente estarán disfrutando de la experiencia y de su deliciosa bebida.
+      <ol style="list-style-type: lower-roman" ><li>con no más de dos y un pulgar. Esto se aplica al servicio y compensación.</li><li>Posavasos: los posavasos deben colocarse donde un vaso pueda sudar. No necesitamosposavasos para copas, cerveza en vasos con patas o licores puros. Por regla general, si la copa tiene tallo o pie, o no se sirve fría o con hielo, no es necesario colocar un posavasos debajo de la copa.</li><li>Posavasos Refrescantes *Servicio Silencioso*: Es adecuado tocar una copa una vez que ha sido servido al cliente. Tenga cuidado con los pequeños derrames o la condesación excesiva y los posavasos que se adhieren a los vasos. Cambie el posavaos por uno nuevo cuando el cliente no esté mirando. Simplemente levante el vaso con el dedo medio y el pulgar mientras retira el posavasos con el menique y el anular. Coloque un posavasos nuevo debajo con la otra mano y devuelva el vaso. Idealmente, el cliente nunca se dará cuenta de que es necesario cambiar el posavasos. Simplemente estarán disfrutando de la experiencia y de su deliciosa bebida.</li></ol>
 
 SUGERENCIA: (Conciencia, Empatía, Acción) <br/>
 Ofrezca sugerencias significativas basadas en las preferencias del cliente. Tómese un momento para explicar la sección de cervezas y vinos, el orden en que aparece el producto en el menú, por región o de claro a oscuro. Esté preparado para tomar el pedido de inmediato o para darles un momento para pensar y acomodarse.
@@ -45,7 +43,7 @@ Ofrezca sugerencias significativas basadas en las preferencias del cliente. Tóm
 
 ENTRADA: <br/>
 
-- Cuando el cliente haya heco su elección, repítale el pedido. Esto es especialmente útil si hay un grupo de personas para no olvidar el orden y asegurarse de que no se cometieron errores en ninguno de los dos lados. Coloca un posavasos a la derecha\* de su vaso de agua mientras confirmas el pedido y ofreces eliminar los menús
+- Cuando el cliente haya hecho su elección, repítale el pedido. Esto es especialmente útil si hay un grupo de personas para no olvidar el pedido y asegurarse de que no se cometieron errores en ninguno de los dos lados. Coloca un posavasos a la derecha\* de su vaso de agua mientras confirmas el pedido y ofreces eliminar los menús
 - Despeje los menús tanto como sea posible para minimzar el desorden en la barra y reducir el riesgo de que los menús se ensucien.
 
 ---
@@ -53,7 +51,7 @@ ENTRADA: <br/>
 
 ## (continuación de la página 2)
 
-- Coloque el orden y la ruta a la estación apropiada. Incluya el número de asiento/mesa cuando corresponda e identificadores del cliente. Consulte los estándares CHIT si es necesario.Esto garantiza la precisión y la preparación y entrega de pedidos sin problemas.
+- Realizar el pedido y la ruta a la estación apropiada. Incluya el número de asiento/mesa cuando corresponda e identificadores del cliente. Consulte los estándares CHIT si es necesario.Esto garantiza la precisión y la preparación y entrega de pedidos sin problemas.
 
 CONSTRUIR Y RECIBIR
 

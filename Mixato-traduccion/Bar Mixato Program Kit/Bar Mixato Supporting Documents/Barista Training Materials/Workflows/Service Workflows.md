@@ -91,7 +91,7 @@ Métodos usados para atender a nuestros clientes
 | **BIENVENIDOS Y GUÍA** | <ul><li>Inmediatamente, y ayude al cliente con la navegación del menú</li></ul> | <ul><li>Crea un ambiente acogedor</li><li>Crea comodidad alrededor de un menú desconocido</li></ul> |
 | **SUGERIR** | <ul><li>Ofrezca sugerencias significativas basadas en las preferencias del cliente.</li></ul> | <ul><li>Asegura la satisfacción del cliente</li></ul> |
 | **APORTE** | <ul><li>Realice el pedido a través de POS (Punto de Venta) con atención a modificadores y preferencias</li><li>Ruta a la estación apropiada</li></ul> | <ul><li>Asegura la precisión del pedido y la preparación de pedidos sin problemas</li></ul> |
-| **CONSTRUIR Y RECIBIR** | <ul><li>Use el flujo de trabajo apropiado y rebia un pedido consolidado</li></ul> |
+| **CONSTRUIR Y RECIBIR** | <ul><li>Use el flujo de trabajo apropiado y reciba un pedido consolidado</li></ul> |
 | **ENTREGAR** | <ul><li>Pedido consolidado</li></ul> | <ul><li>Proporciona al cliente su pedido completo y elimina la confusión</li></ul> |
 | **PREGUNTAR** | <ul><li>Frecuentemente pre-bus y reponer</li></ul> | <ul><li>Protege la integridad de la experiencia del cliente</li></ul> |
 | **LICITACIÓN** | <ul><li>Cerrar cheque</li></ul> | <ul><li>Completa la experiencia del cliente</li></ul> |

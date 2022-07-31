@@ -47,7 +47,7 @@
 - Roastery Barista Training - Passion for Service - ***6/6***
 - Roastery Barista Training - Coffee Press - ***6/6***
 - Roastery Barista Training - Coffee Flight - ***6/6***
-- Mixology - Guiding Orders Facilitator Guide - ***0/5***
+- Mixology - Guiding Orders Facilitator Guide - ***5/5***
 - Roastery Barista Training - Chemex - ***6/6***
 - Roastery Barista Training - Tasting and Sharing - ***7/7***
 - Job Aid - Chit Standards - ***3/3***
@@ -81,7 +81,7 @@
 - Mixology - Your Role Welcome and Connect Facilitator Guide - ***0/11***
 - Mixology - Your Role Mixology Experience Module - ***0/13***
 - Mixology - Role of the Bartender Module - ***0/8***
-- Mixology - Role of the Bartender Facilitator Guide - ***0/8***
+- Mixology - Role of the Bartender Facilitator Guide - ***8/8***
 - Mixology - Your Role Mixology Experience Facilitator Guide - ***0/13***
 - Mixology - Activity 6 Spirit Cocktail Basics - ***0/6***
 - Mixology - Activity 4 Wine Basics - ***0/4***
@@ -92,7 +92,7 @@
 <!-- - Alcohol Management System (AMS) User Guide - Siren Retail - ***0/28*** -->
 - Service Workflows - ***117/17***
 - Mixology - Activity 3 Beer and Wine Facilitator Notes - ***6/6***
-- Mixology - Activity 5 Mixed Drink Facilitator Notes - ***0/7***
+- Mixology - Activity 5 Mixed Drink Facilitator Notes - ***7/7***
 - SCEMM - Mixology - ***0/16***
 - Mixology - Training Program Guide - ***0/12***
 - Bar Mixato Program Guide - ***30/30***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 249/550***
+## ***Total: 269/550***
