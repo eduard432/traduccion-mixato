@@ -66,7 +66,7 @@
 - Roastery Barista Training - Next Chapter - ***6/6***
 - Certification Check - Chemex - ***5/5***
 - Princi Mixology QRG - Italian Wine Regions - ***0/4***
-- Mixology - Bartender Training Plan - ***0/2***
+- Mixology - Bartender Training Plan - ***2/2***
 - Mixology - Activity 3 Beer Basics - ***0/3***
 - Certification Check - Clover - ***5/5***
 - Roastery Barista Training - Training Plan - ***8/8***
@@ -78,11 +78,11 @@
 - Certification Check - Siphon - ***6/6***
 - Mixology - Your Role Welcome and Connect Module - ***0/11***
 - Roastery Barista Training - Trainer Support Kit - ***10/10***
-- Mixology - Your Role Welcome and Connect Facilitator Guide - ***0/11***
+- Mixology - Your Role Welcome and Connect Facilitator Guide - ***11/11***
 - Mixology - Your Role Mixology Experience Module - ***0/13***
 - Mixology - Role of the Bartender Module - ***0/8***
 - Mixology - Role of the Bartender Facilitator Guide - ***8/8***
-- Mixology - Your Role Mixology Experience Facilitator Guide - ***0/13***
+- Mixology - Your Role Mixology Experience Facilitator Guide - ***13/13***
 - Mixology - Activity 6 Spirit Cocktail Basics - ***0/6***
 - Mixology - Activity 4 Wine Basics - ***0/4***
 - Roastery Barista Training - Manager Support Kit - ***11/11***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 269/550***
+## ***Total: 307/550***
