@@ -29,7 +29,7 @@
 - Job Aid - Gift Wrapping - ***2/2***
 - Mixology - Your Role Welcome and Connect Activity Guide - ***0/2***
 - Mixology - Guiding Orders Activity Guide - ***0/2***
-- Mixology - Activity 1 Theater Activity Guide - ***0/2***
+- Mixology - Activity 1 Theater Activity Guide - ***2/2***
 - Mixology - Your Role Mixology Experience Activity Guide - ***0/2***
 - Mixology - Role of the Bartender Activity Guide - ***0/2***
 <!-- - SCEMM - Manual Cold Brew - ***0/2*** -->
@@ -40,7 +40,7 @@
 - Roastery Barista Training - Pour Over - ***5/5***
 - Roastery Barista Training - Coffee Theater - ***5/5***
 - Roastery Barista Training - Siphon - ***5/5***
-- Mixology - Activity 1 Theater Module - ***0/6***
+- Mixology - Activity 1 Theater Module - ***6/6***
 - Certification Check - Coffee Press - ***4/4***
 - Mixology - Operations Excellence Activity Guide - ***0/3***
 - Roastery Barista Training - Four Tasting Characteristics - ***6/6***
@@ -52,7 +52,7 @@
 - Roastery Barista Training - Tasting and Sharing - ***7/7***
 - Job Aid - Chit Standards - ***3/3***
 - Roastery Barista Training - Beverage Build - ***6/6***
-- Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***0/3***
+- Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***3/3***
 - Mixology - Activity 1 Theater Facilitators Guide - ***6/6***
 - Mixology - Activity 3  Beer Basics Service and Tasting Activity Guide - ***0/3***
 - Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide (1) - ***0/3***
@@ -67,7 +67,7 @@
 - Certification Check - Chemex - ***5/5***
 - Princi Mixology QRG - Italian Wine Regions - ***0/4***
 - Mixology - Bartender Training Plan - ***2/2***
-- Mixology - Activity 3 Beer Basics - ***0/3***
+- Mixology - Activity 3 Beer Basics - ***3/3***
 - Certification Check - Clover - ***5/5***
 - Roastery Barista Training - Training Plan - ***8/8***
 - SCEMM - Black Eagle - ***0/13***
@@ -102,4 +102,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 307/550***
+## ***Total: 321/550***
