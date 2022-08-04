@@ -27,14 +27,14 @@
 <!-- - Mixology Princi - Stocked Glastender and Two Wine Fridges - ***0/1*** -->
 - Mixology QRG - Beverage Food Pairings - ***0/1***
 - Job Aid - Gift Wrapping - ***2/2***
-- Mixology - Your Role Welcome and Connect Activity Guide - ***0/2***
-- Mixology - Guiding Orders Activity Guide - ***0/2***
+- Mixology - Your Role Welcome and Connect Activity Guide - ***2/2***
+- Mixology - Guiding Orders Activity Guide - ***2/2***
 - Mixology - Activity 1 Theater Activity Guide - ***2/2***
-- Mixology - Your Role Mixology Experience Activity Guide - ***0/2***
-- Mixology - Role of the Bartender Activity Guide - ***0/2***
+- Mixology - Your Role Mixology Experience Activity Guide - ***2/2***
+- Mixology - Role of the Bartender Activity Guide - ***2/2***
 <!-- - SCEMM - Manual Cold Brew - ***0/2*** -->
 - SCEMM - Ditting Grinder - ***0/6***
-- Mixology - Guiding Orders Module - ***0/5***
+- Mixology - Guiding Orders Module - ***5/5***
 - Roastery Barista Training - Food Pairing - ***5/5***
 - Certification Check - Pour Over Cone - ***6/6***
 - Roastery Barista Training - Pour Over - ***5/5***
@@ -42,7 +42,7 @@
 - Roastery Barista Training - Siphon - ***5/5***
 - Mixology - Activity 1 Theater Module - ***6/6***
 - Certification Check - Coffee Press - ***4/4***
-- Mixology - Operations Excellence Activity Guide - ***0/3***
+- Mixology - Operations Excellence Activity Guide - ***3/3***
 - Roastery Barista Training - Four Tasting Characteristics - ***6/6***
 - Roastery Barista Training - Passion for Service - ***6/6***
 - Roastery Barista Training - Coffee Press - ***6/6***
@@ -55,8 +55,7 @@
 - Mixology - Activity 2 Spiritfree Service and Tasting Activity Guide - ***3/3***
 - Mixology - Activity 1 Theater Facilitators Guide - ***6/6***
 - Mixology - Activity 3  Beer Basics Service and Tasting Activity Guide - ***0/3***
-- Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide (1) - ***0/3***
-- Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide - ***0/3***
+- Mixology - Activity 4 Wine Basics Service and Tasting Activity Guide - ***3/3***
 - Roastery Barista Training - Guiding Customer Orders  - ***6/6***
 - Roastery Barista Training - Pulling Shots - ***6/6***
 - Roastery Barista Training - Consolidator and Runner - ***6/6***
@@ -73,24 +72,24 @@
 - SCEMM - Black Eagle - ***0/13***
 <!-- - SCEMM - Beer Tap System - ***0/4*** -->
 - Roastery Barista Training - Partner Purpose and Your Roastery - ***6/6***
-- Mixology - Activity 5 Aperitivo Digestivo Basics - ***0/4***
+- Mixology - Activity 5 Aperitivo Digestivo Basics - ***4/4***
 - Mixology Workflows - ***0/5***
 - Certification Check - Siphon - ***6/6***
-- Mixology - Your Role Welcome and Connect Module - ***0/11***
+- Mixology - Your Role Welcome and Connect Module - ***11/11***
 - Roastery Barista Training - Trainer Support Kit - ***10/10***
 - Mixology - Your Role Welcome and Connect Facilitator Guide - ***11/11***
-- Mixology - Your Role Mixology Experience Module - ***0/13***
-- Mixology - Role of the Bartender Module - ***0/8***
+- Mixology - Your Role Mixology Experience Module - ***13/13***
+- Mixology - Role of the Bartender Module - ***8/8***
 - Mixology - Role of the Bartender Facilitator Guide - ***8/8***
 - Mixology - Your Role Mixology Experience Facilitator Guide - ***13/13***
-- Mixology - Activity 6 Spirit Cocktail Basics - ***0/6***
+- Mixology - Activity 6 Spirit Cocktail Basics - ***6/6***
 - Mixology - Activity 4 Wine Basics - ***0/4***
 - Roastery Barista Training - Manager Support Kit - ***11/11***
 <!-- - Bar Mixato Recipe Cards - ***0/30*** -->
 - Craft Workflows - ***7/7***
 - Certification Check - Black Eagle - ***11/11***
 <!-- - Alcohol Management System (AMS) User Guide - Siren Retail - ***0/28*** -->
-- Service Workflows - ***117/17***
+- Service Workflows - ***17/17***
 - Mixology - Activity 3 Beer and Wine Facilitator Notes - ***6/6***
 - Mixology - Activity 5 Mixed Drink Facilitator Notes - ***7/7***
 - SCEMM - Mixology - ***0/16***
@@ -102,4 +101,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 321/550***
+## ***Total: 389/547***

@@ -74,7 +74,7 @@ Checklist
 
 **Leer:** Flujos de Trabajo de Cerveza y Sidra
 
-**Demostrue** sel servicio de cerveza siguiendo el Flujo de Trabajo del Servicio de Cerveza destacando los puntos clave y las razones por las cuales
+**Dmuestre** el servicio de cerveza siguiendo el Flujo de Trabajo del Servicio de Cerveza destacando los puntos clave y las razones por las cuales
 
 **Diga:** a los socios que hagan referencia al flujo de trabajo a medida que lo demuestra. Este es un componente crítico en la capacitación ya que la Pasión por el Servicio vive dentro de los pasos del servicio, que experimentarán a lo largo de esta actividad. Consulte las Notas del Facilitador para obtener más detalles.
 
