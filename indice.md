@@ -1,15 +1,15 @@
 - SCEMM - Toddy - ***0/1***
-- Job Aid - Siren Retail - Sorting Manicure Swaths and Expression Peels - ***0/1***
-- Job Aid - Siren Retail - Peeling Citrus Swaths Vertical - ***0/1***
+- Job Aid - Siren Retail - Sorting Manicure Swaths and Expression Peels - ***1/1***
+- Job Aid - Siren Retail - Peeling Citrus Swaths Vertical - ***1/1***
 - Siren Retail Mixology Prep - Simple Syrup - ***0/1***
-- Job Aid - Siren Retail - Grated Citrus Garnish - ***0/1***
-- Job Aid - Siren Retail - Lime Slice Garnish - ***0/1***
-- Job Aid - Siren Retail - Garnish Glossary of Terms - ***0/1***
-- Job Aid - Siren Retail - Orange Wheel Garnish - ***0/1***
+- Job Aid - Siren Retail - Grated Citrus Garnish - ***1/1***
+- Job Aid - Siren Retail - Lime Slice Garnish - ***1/1***
+- Job Aid - Siren Retail - Garnish Glossary of Terms - ***1/1***
+- Job Aid - Siren Retail - Orange Wheel Garnish - ***1/1***
 - Job Aid - Degassing Coffee - ***1/1***
 - Mixology QRG - Changing a Keg - ***0/1***
-- Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1***
-- Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1***
+- Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***1/1***
+<!-- - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1*** -->
 - Job Aid - Merchandising Basics - ***1/1***
 - Job Aid - Latte Art Presentation Standard - ***1/1***
 - Job Aid - Steaming Milk - ***1/1***
@@ -73,7 +73,7 @@
 <!-- - SCEMM - Beer Tap System - ***0/4*** -->
 - Roastery Barista Training - Partner Purpose and Your Roastery - ***6/6***
 - Mixology - Activity 5 Aperitivo Digestivo Basics - ***4/4***
-- Mixology Workflows - ***0/5***
+- Mixology Workflows - ***5/5***
 - Certification Check - Siphon - ***6/6***
 - Mixology - Your Role Welcome and Connect Module - ***11/11***
 - Roastery Barista Training - Trainer Support Kit - ***10/10***
@@ -101,4 +101,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 389/547***
+## ***Total: 400/547***
