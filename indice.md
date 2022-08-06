@@ -7,14 +7,14 @@
 - Job Aid - Siren Retail - Garnish Glossary of Terms - ***1/1***
 - Job Aid - Siren Retail - Orange Wheel Garnish - ***1/1***
 - Job Aid - Degassing Coffee - ***1/1***
-- Mixology QRG - Changing a Keg - ***0/1***
+- Mixology QRG - Changing a Keg - ***1/1***
 - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***1/1***
 <!-- - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1*** -->
 - Job Aid - Merchandising Basics - ***1/1***
 - Job Aid - Latte Art Presentation Standard - ***1/1***
 - Job Aid - Steaming Milk - ***1/1***
 - QRG - Washing Produce - ***0/1***
-- Mixology QRG - Checking ID - ***0/1***
+- Mixology QRG - Checking ID - ***1/1***
 - Job Aid - Dialing in Espresso - ***1/1***
 - Job Aid - Chit System - ***1/1***
 - SCEMM - Citrus Juicer - ***0/1***
@@ -23,9 +23,9 @@
 - SCEMM - Metal Free Pour Spout - ***0/1***
 <!-- - SCEMM - ChampagneSaver - ***0/1*** -->
 - SCEMM - Free Pour Spout - ***0/1***
-- Mixology QRG - Building by the Rounds - ***0/2***
+- Mixology QRG - Building by the Rounds - ***2/2***
 <!-- - Mixology Princi - Stocked Glastender and Two Wine Fridges - ***0/1*** -->
-- Mixology QRG - Beverage Food Pairings - ***0/1***
+- Mixology QRG - Beverage Food Pairings - ***1/1***
 - Job Aid - Gift Wrapping - ***2/2***
 - Mixology - Your Role Welcome and Connect Activity Guide - ***2/2***
 - Mixology - Guiding Orders Activity Guide - ***2/2***
@@ -64,7 +64,7 @@
 - SCEMM - Hoshizaki Ice Machine - ***0/3***
 - Roastery Barista Training - Next Chapter - ***6/6***
 - Certification Check - Chemex - ***5/5***
-- Princi Mixology QRG - Italian Wine Regions - ***0/4***
+- Princi Mixology QRG - Italian Wine Regions - ***4/4***
 - Mixology - Bartender Training Plan - ***2/2***
 - Mixology - Activity 3 Beer Basics - ***3/3***
 - Certification Check - Clover - ***5/5***
@@ -101,4 +101,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 400/547***
+## ***Total: 409/547***
