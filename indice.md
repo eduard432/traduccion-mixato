@@ -1,7 +1,7 @@
 - SCEMM - Toddy - ***0/1***
 - Job Aid - Siren Retail - Sorting Manicure Swaths and Expression Peels - ***1/1***
 - Job Aid - Siren Retail - Peeling Citrus Swaths Vertical - ***1/1***
-- Siren Retail Mixology Prep - Simple Syrup - ***0/1***
+- Siren Retail Mixology Prep - Simple Syrup - ***1/1***
 - Job Aid - Siren Retail - Grated Citrus Garnish - ***1/1***
 - Job Aid - Siren Retail - Lime Slice Garnish - ***1/1***
 - Job Aid - Siren Retail - Garnish Glossary of Terms - ***1/1***
@@ -9,11 +9,11 @@
 - Job Aid - Degassing Coffee - ***1/1***
 - Mixology QRG - Changing a Keg - ***1/1***
 - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***1/1***
-<!-- - Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***0/1*** -->
+- Job Aid - Siren Retail - Lemon Twist Garnish and Lemon Juice - ***1/1***
 - Job Aid - Merchandising Basics - ***1/1***
 - Job Aid - Latte Art Presentation Standard - ***1/1***
 - Job Aid - Steaming Milk - ***1/1***
-- QRG - Washing Produce - ***0/1***
+- QRG - Washing Produce - ***1/1***
 - Mixology QRG - Checking ID - ***1/1***
 - Job Aid - Dialing in Espresso - ***1/1***
 - Job Aid - Chit System - ***1/1***
@@ -101,4 +101,4 @@
 - SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 409/547***
+## ***Total: 412/547***
