@@ -131,7 +131,7 @@ Peligro: <br/> Nunca quite los portafiltros mientras la máquina está retrolava
 - Cepillo para detalles solo en contacto con alimentos
 
 **MSDS:** <br/>
-A Safety Data Sheet for Cafiza® Espresso Machine Cleaner and ClickSan Sanitizer can be found on the Partner Hub.
+Se puede encontrar una hoja de datos de seguridad para el limpiador de máquinas de café espresso CAFIZA® y el desinfectante de Clicksan en el centro de socios.
 
 **Estándar:** <br/>
 Siempre realice los ciclos de lavado y enjuague para deshacerse de todos los residuos químicos.
@@ -140,32 +140,32 @@ Siempre realice los ciclos de lavado y enjuague para deshacerse de todos los res
 Nunca retire los portafiltros mientras la máquina está realizando un retrolavado.
 
 ---
-**01 - Grab a blind Portafilter**
-- If you do not have a dedicated blind portafilter, take out the standard espresso basket and insert a blind filter
+**01 - Agarra un portafiltro ciego**
+- Si no tiene un portafiltro ciego dedicado, elimine la canasta de café espresso estándar e inserte un filtro ciego
 
-**02 - Clean grouphead around screen**
-- Use a detail brush or a wiping cloth saturated in sanitizer to clean inside each group head around the screen and gasket to remove excess grounds.
+**02 - Limpiar cabezal alrededor de la pantalla**
+- Use un cepillo de detalle o un paño de limpieza saturado en desinfectante para limpiar dentro de cada cabezal de grupo alrededor de la pantalla y la junta para eliminar el exceso de granos.
 
-**03 - Put 4 teaspoon of Cafiza ® Espresso Machine Cleaner into blind portafilter**
+**03 - Coloque 4 cucharaditas de limpiador de máquinas de café espresso Cafiza ® en el porta filtro ciego**
 
-**04 - Place blind portafilters in groups being cleaned**
+**04 - Coloque portafilters ciegos en grupos que se limpien**
 
-**05 - Press the cleaning button**
-- This will bring up the "Automatic wash Cycle" screen
+**05 - Presione el botón de limpieza**
+- Esto traerá la pantalla de "ciclo de lavado automático"
 
-**06 - Start the "Clean" cycle**
-- Turning the knob (located to the right of the screen) highlight the group you would like to start backflusing.
-- With the group highlighted, start the cleaning process by pressing the knob.
-- Once selected, the screen will note the group is "Cleaning. 
-- Repeat this process for each grouphead you would like to clean.
-- The "Cleaning" cycle takes about two minutes to complete.
+**06 - Comience el ciclo de "Limpieza"**
+- Girar la perilla (ubicada a la derecha de la pantalla) resalte el grupo que le gustaría comenzar a fluir.
+- Con el grupo resaltado, comience el proceso de limpieza presionando la perilla.
+- Una vez seleccionado, la pantalla notará que el grupo está "limpiando".
+- Repita este proceso para cada cabezal que le guste limpiar.
+- El ciclo de "limpieza" tarda aproximadamente dos minutos en completarse.
 
-**01 Grab a blind portafilter** <br/>
-**02 Clean grouphead and screen** <br/>
-**03 Put ¼ teaspoon of cleaner into blind postafilter** <br/>
-**04 Place build portafilters into groups being cleaned** <br/>
-**05 Press tje cleaning button** <br/>
-**06 Start the "Clean" cycle**
+**01 Agarra un portafiltro ciego** <br/>
+**02 Limpiar cabezal y pantalla** <br/>
+**03 Coloque ¼ cucharadita de limpiador en el portafiltro ciego** <br/>
+**04 Coloque los portafilteros de construcción en grupos que se limpian** <br/>
+**05 Presione el botón de limpieza** <br/>
+**06 Comience el ciclo de "limpieza"**
 
 ---
 ### Página 6
@@ -175,31 +175,31 @@ Nunca retire los portafiltros mientras la máquina está realizando un retrolava
 **Continuación**
 
 ---
-**07 - Empty the portafilters**
-- After the cleaning cycle is complete, the word "Rinse" will appear below each group icon that was cleaned.
-- Remove the portafilters and dump the liquid in them out in the drain tray.       
-- Put the portafilters back into the groupheads.
+**07 - Vaciar los porta filtros**
+- Después de que se complete el ciclo de limpieza, la palabra "enjuague" aparecerá debajo de cada icono de grupo que se limpió.
+- Retire los portafilteros y voltea el líquido en la bandeja de drenaje.
+- Vuelva a colocar los porta filtros en los cabezales.
 
-**08 - Start the "Rinse" cycle**
-- Turning the knob again, highlight thegroup that is ready to "rinse."
-- To start the rinsing process, press the knob.
-- Repeat the process for each remaining cleaned grouphead.
-- The "Rinse" cycle takes about two minutes to complete.
+**08 - Comience el ciclo "enjuague"**
+- Volviendo a girar la perilla, resalte el grupo que está listo para "enjuagar".
+- Para comenzar el proceso de enjuague, presione la perilla.
+- Repita el proceso para cada cabezal limpio restante.
+- El ciclo de "enjuague" tarda aproximadamente dos minutos en completarse.
 
-**09 - Completed "Clean" and "Rinse" cycle**
-- When the groups are finished rinsing, the screen will have no words under each of     08 Start the "Rinse" cyclethe group icons
-- Use the knob to scroll to the "Home" button in the bottom left corner and press to knob to select "Home."
+**09 - Ciclo completado de "limpieza" y "enjuague"**
+- Cuando los grupos hayan terminado el enjuague, la pantalla no tendrá palabras en cada uno de los iconos grupales.
+- Use la perilla para desplazarse al botón "Inicio" en la esquina inferior izquierda y presione para que seleccione "Inicio".
 
-**10 - After selecting "Home", the screen will go back to the main screen.**
+**10 - Después de seleccionar "Inicio", la pantalla volverá a la pantalla principal.**
 
-**11 - Returning blind portafilter**
-- Remove the blind portafilter inserts and re-insert the standard coffee baskets if necessary.
+**11 - Devolviendo portafiltro ciego**
+- Retire los insertos de porta filtro ciegos y vuelva a insertar las canastas de café estándar si es necesario.
 
-**07 Empty the portafilters** <br/>
-**08 Start the "Rinese" cylce** <br/>
-**09 Completed "Clean" and "Rinese cycle** <br/>
-**10 After slecting "Home", the screen will go back to the main screen** <br/>
-**11 Returning blind portafilter**
+**07 Vaciar los porta filtros** <br/>
+**08 Comience el ciclo "enjuague"** <br/>
+**09 Ciclo completado de "lavado" y "enjuague"** <br/>
+**10 Después de seleccionar "Inicio", la pantalla volverá a la pantalla principal** <br/>
+**11 Devolviendo portafiltro ciego**
 
 ---
 ### Página 7
@@ -210,35 +210,217 @@ Nunca retire los portafiltros mientras la máquina está realizando un retrolava
 
 ---
 **Materiales Necesarios:**
-- Wiping Cloth
-- Back up set of diffuser screens and screws         
-- ClickSan sanitizer
-- Stubby handled screwdriver                         
-- Food contact only detail brush
+- Paño de limpieza
+- Juego de respaldo de pantallas y tornillos difusores       
+- Desinfectante de clicksan
+- Destornillador de mango corto                         
+- Cepillo para detalles solo en contacto con alimentos
 
 **MSDS:** <br/>
-A Safety Data Sheet for ClickSan Sanitizer can be found on the Partner Hub.
+Se puede encontrar una hoja de datos de seguridad para el desinfectante de clicksan en el centro de socios.
 
 **Estándar:** <br/>
-Always go through both the wash and rinse cycles to get rid of all chemical residue.
+Siempre realice los ciclos de lavado y enjuague para deshacerse de todos los residuos químicos.
 
 **Advertencia:** <br/>
-Always turn the machine CFF when removing filters.
+Siempre gire la máquina CFF al eliminar los filtros.
 
 ---
 
-**01 - Safety first**
-- Make sure to tell all partners that you are removing and cleaning the screens.
-- **Do not press any buttons on the machine doing so will cause hot water to shoot out and harm partners and facilities.**
+**01 - Seguridad primero**
+- Asegúrese de decirle a todos los socios que está eliminando y limpiando las pantallas.
+- **No presione ningún botón en la máquina, hacerlo hará que el agua caliente se dispare y dañe a los socios e instalaciones.**
 
-**02 - Remove the screen**
-- Lay a towel down on the drip-tray to catch the screw, screen and grouphead plate.
-- Using the stubby handled screwdriver, remove the diffuser screw by turning it counter-clockwise.
-- Remove the screen.
-- Warning: The grouphead plate will come out with the screen and will be very hot.     Use caution — use the towel to grab the hot items or allow them to fall down onto the towel.
+**02 - Remueva la pantalla**
+- Coloque una toalla en la bandeja de goteo para atrapar el tornillo, la pantalla y la placa del cabezal.
+- Usando el destornillador de mango corto, retire el tornillo del difusor girándolo en sentido antihorario.
+- Remueva la pantalla.
+- ADVERTENCIA: La placa del cabezal saldrá con la pantalla y estará muy caliente. Use precaución: use la toalla para agarrar los artículos calientes o permitirles caer sobre la toalla.
 
-**03 - Check the screen and screw for ware**
-- If the wire mesh is freyed or separating from the stainless steel backing discard the screen and replace with a new one.
+**03 - Revise la pantalla y el tornillo para ver el objeto**
+- Si la malla de alambre está deshilachada o se está separando del respaldo de acero inoxidable, deseche la malla y reemplácela por una nueva.
 
 **04 - Wipe down the screen and grouphead plate**
-- Using a wiping cloth, clean off the screen and grouphead plate until all excess build up and grounds are off
+- Con un paño de limpieza, limpie la pantalla y la placa del cabezal de grupo hasta eliminar todo exceso de acumulación y tierra.
+
+**02 Remueva la pantalla**
+**03 Verifique la pantalla y atornille para ver si hay artículos**
+
+---
+### Página 8
+## Maquinas Espresso
+### Nuova Simoneli Black Eagle - Limpieza de las Pantallas con Agua
+**Continuación**
+
+---
+
+**05 - Limpiar la junta de la cabeza del grupo**
+- Usar el cepillo para detalles solo en contacto con alimentos para limpiar en detalle alrededor de la junta del cabezal del grupo
+- Limpie la junta de la cabeza del grupo con un paño de limpieza empapado en ClickSan.
+- **Advertencia: El cabezal estará caliente**
+
+**06 - Reemplace la pantalla y la placa de cabeza de grupo**
+- Vuelva a colocar la placa limpia del cabezal de grupo y la malla en su lugar y use un tornillo para unir de manera segura todas las piezas a la máquina.
+- Utilice el destornillador de mango corto para apretar el tornillo girándolo en el sentido de las agujas del reloj.
+- Tenga cuidado de no cruzar la rosca ni apretar demasiado el tornillo del difusor.
+
+**07 - RRepita los pasos 01-06 para todos los cabezales**
+
+**05 Limpiar junta del cabezal de grupo** <br/>
+**06 Reemplace la pantalla y el cabezal de grupo**
+
+---
+### Página 9
+## Maquinas Espresso
+### Nuova Simoneli Black Eagle - Limpieza de las Pantallas con Cafiza®
+
+**Frecuencia:** _Diaria_
+
+---
+**Materiales Necesarios:**
+- Juego de respaldo de pantallas y tornillos difusores    
+- Destornillador de mango corto 
+- Paño de limpieza
+- Desinfectante de clicksan
+- Cepillo para detalles solo en contacto con alimentos
+- Limpiador de máquinas de espresso Cafiza®
+- Cubo de plexiglás de 5"x5"
+
+**MSDS:** <br/>
+_Se puede encontrar una hoja de datos de seguridad para el desinfectante de clicksan y el limpiador de máquinas de café espresso COFIZA® en el centro de socios._
+
+**Estándar:** <br/>
+Siempre realice los ciclos de lavado y enjuague para deshacerse de todos los residuos químicos.
+ 
+**Advertencia:** <br/>
+Gire siempre la máquina CFF al quitar los filtros.
+
+---
+**01 - Seguridad primero**
+- Asegúrese de decirles a todos los socios que está quitando y limpiando las pantallas.
+- **No presione ningún botón en la máquina; hacerlo hará que el agua caliente salga disparada y dañe a los socios y las instalaciones.**
+
+**02 - Remueva la pantalla**
+- Coloque una toalla sobre la bandeja de goteo para atrapar el tornillo, la malla y la placa del cabezal del grupo.
+- Con el destornillador de mango corto, retire el tornillo del difusor girándolo en sentido contrario a las agujas del reloj.
+- Remueva la pantalla.
+- **Advertencia: La placa del cabezal de grupo se saldrá con la pantalla y estará muy caliente. Tenga cuidado: use la toalla para agarrar los artículos calientes o permita que caigan sobre la toalla.**
+
+**03 - Verifique la pantalla y el tornillo para ver si hay artículos**
+- Si la malla de alambre está deshilachada o se está separando del respaldo de acero inoxidable, deseche la pantalla y reemplácela por una nueva.
+
+**02 Remueva la pantalla** <br/>
+**03 Verifique la pantalla y el tornillo para ver si hay artículos**
+
+---
+### Página 10
+## Maquinas Espresso
+### Nuova Simoneli Black Eagle - Limpieza de las Pantallas con Cafiza®
+**Continuación**
+
+---
+
+**04 - Comience a remojar la pantalla, la placa del cabezal de grupo y los portafiltros**
+- Agregue ¼ de cucharadita de Cafiza® Espresso Machine Cleaner a un cubo de plexiglás. Llénalo hasta la mitad con agua caliente. Sumerja las mallas y los tornillos, así como la canasta del portafiltro.Remoja durante 30 minutos.
+- _Nota: No sumerja los mangos del portafiltro en la solución._
+
+**05 - Limpie la pantalla y la placa del cabezal de grupo**
+- Con un paño de limpieza, limpie la pantalla y la placa del cabezal de grupo hasta eliminar todo exceso de acumulación y tierra.
+
+**06 - Limpiar la junta de la cabeza del grupo**
+- Usar el cepillo de detalles solo para contacto con alimentos para limpiar en detalle alrededor de la junta del cabezal del grupo.
+- Limpie la junta de la cabeza del grupo con un paño de limpieza empapado en ClickSan.
+- **Advertencia: El cabezal del grupo estará caliente**
+
+**07 - Reemplace la pantalla y la placa de cabeza de grupo**
+- Vuelva a colocar la placa del cabezal de grupo limpia y la pantalla en su lugar y utilice un tornillo para atacar de forma segura todas las piezas de regreso a la máquina.
+- Utilice el destornillador de mango corto para apretar el tornillo girándolo en el sentido de las agujas del reloj.
+- Tenga cuidado de no cruzar o apretar demasiado el tornillo del difusor.
+
+**08 - Repita los pasos 01-07 para todos los cabezas de grupo**
+
+**04 Comience a remojar la pantalla, la placa del cabezal de grupo y el portafiltro** <br/>
+**06 Limpiar junta de cabeza de grupo**
+**07 Reemplace la pantalla y la placa de los cabezales de grupo**
+
+---
+### Página 11
+## Maquinas Espresso
+### Nuova Simoneli Black Eagle - Limpieza de la bandeja de goteo y el exterior de la máquina
+
+**Frecuencia:** _Diaria_
+
+---
+**Materiales Necesarios:**
+- Paño de limpieza
+- Desinfectante ClickSan
+
+**MSDS:** <br/>
+_Puede encontrar una hoja de datos de seguridad para el desinfectante ClickSan en el centro de socios._
+
+---
+
+**01 - Retire la bandeja de goteo y la rejilla**
+- Retire la bandeja de goteo y la compuerta de la bandeja de goteo tirando hacia arriba y hacia afuera.
+
+**02 - Área de Wupe hacia abajo**
+- Use un paño de limpieza empapado en desinfectante para limpiar cualquier acumulación de leche en el área debajo y detrás de la bandeja de goteo.
+- Limpie la parte superior, los lados y la parte posterior de la máquina, teniendo cuidado de no mojar ningún botón.
+
+**03 - Limpiar la bandeja de goteo y la rejilla**
+- Lave, enjuague y desinfecte la bandeja de goteo utilizando el método del fregadero de tres compartimentos. Secar al aire.
+
+**04 - Reemplace la bandeja de goteo**
+
+**01 Retire la bandeja de goteo y la rejilla** <br/>
+**02 Limpie el área hacia abajo**
+
+---
+### Página 12
+## Maquinas Espresso
+### Nuova Simoneli Black Eagle - Solución de problemas
+
+---
+
+| **PROBLEMA** | **POSIBLE CAUSA** | **SOLUCIÓN** |
+| ----------- | ------------------ | ------------ |
+| Los shots son inconsistentes | La dosis de la amoladora de barras es incorrecta | Verifique que la amoladora de barras esté dosificando con precisión.
+| | La molienda de la amoladora de barras es incorrecta | Ajusta la molienda. |
+| | La caldera de café no está a la temperatura (las luces rojas del panel están encendidas) | Deje que se recupere la temperatura de la caldera. Si usa una máquina de cuatro grupos, alterne los grupos uno y dos con los grupos tres y cuatro. |
+| | Los insertos del portafiltro están desgastados. | Reemplace las pantallas de los insertos del portafiltro. |
+| | Los filtros de agua están obstruidos | Revise los filtros de agua. (Consulte la sección Sistemas de tratamiento de agua para obtener más detalles).
+| | La válvula de suministro de agua no está completamente abierta. | Abra completamente la válvula de suministro de agua. |
+| | La bomba de la máquina de espresso está desgastada o defectuosa. | Notifique a la FCC. |
+| Los shots son inconsistentes. El volumen varía de toma a toma. | Los vasos de chupito son diferentes. No todos los vasos de chupito son de una onza. | Verifique el volumen de los vasos de chupito con una taza de calibración. |
+| | La máquina no está programada correctamente. | Reprograme la máquina de espresso. (Consulte el procedimiento en esta sección.) |
+| | Los filtros de agua están obstruidos. | Revise los filtros de agua. (Vea la sección de Sistemas de Tratamiento de Agua para más detalles.) |
+| | La válvula de suministro de agua no está completamente abierta. | Abra completamente la válvula de suministro de agua. |
+| | La bomba de la máquina de espresso está desgastada o defectuosa. | Notifique a la FCC. |
+| La bomba de la máquina de espresso hace ruido. | La bomba necesita agua. | Revisa los filtros de agua. (Consulte la sección Sistemas de tratamiento de agua para obtener más detalles).
+| | | Revise la línea de suministro de agua en busca de torceduras y verifique que la válvula esté completamente abierta |
+
+---
+### Página 13
+## Maquinas Espresso
+### Nuova Simoneli Black Eagle - Solución de problemas
+
+---
+
+| **PROBLEMA** | **POSIBLE CAUSA** | **SOLUCIÓN** |
+| ----------- | ------------------ | ------------ |
+| La presión de vapor es baja o no hay presión de vapor | El suministro de vapor se agota debido a un exceso de vapor. | Espere unos minutos para la recuperación. |
+| | El suministro de vapor se ha agotado porque ambas válvulas estaban abiertas al mismo tiempo. | Deje que la máquina se recupere. Asegúrese de que solo una válvula de vapor esté abierta a la vez. |
+| | El interruptor de alimentación no está completamente encendido. | Verifique que el interruptor de encendido esté en la posición dos. |
+| | La punta de la varilla de vapor está obstruida. | Retire y limpie la punta de la varilla de vapor. |
+| | La chaveta de la válvula de vapor está rota. | Reemplace la chaveta rota. (Consulte el procedimiento en esta sección.) |
+| | La caldera de vapor está vacía. | Compruebe el nivel en la mirilla. Si no hay nivel de agua, apague la máquina y notifique a la FCC. |
+| Todas las luces de las cajas de botones parpadean | Se ha cerrado el suministro de agua a la máquina. | Verifique que la válvula de suministro de agua esté completamente abierta. Para restablecer las luces, gire el interruptor a APAGADO; luego de vuelta a la posición dos. |
+| | Los filtros de agua están obstruidos | Revisa los filtros de agua. (Vea la sección de Sistemas de Tratamiento de Agua para más detalles.) |
+| Hay inundaciones debajo de la máquina en el mostrador. | La línea de drenaje está pellizcada. | Verifique que la línea de drenaje no tenga dobleces y aproveche la gravedad. |
+| | La línea de drenaje está obstruida. | Despeje la base del colector y la línea de drenaje. |
+| | El sumidero está agrietado | Notificar a la FCC |
+| El inserto del portafiltro se cae. | El resorte del portafiltro está desgastado. | Reemplace el resorte del portafiltro. |
+| El agua se filtra alrededor del portafiltro al tomar un trago. | El grupo está sucio. | Lavar el grupo |
+| | La junta del grupo está desgastada. | Reemplace la junta del grupo. (Consulte el procedimiento de esta sección.) |
+| El agua de los grupos es tibia o fría. | El suministro de agua caliente en las calderas de café se ha agotado. | Permita que las calderas de café se recuperen y vuelvan a la temperatura. |
+| | El interruptor térmico se ha fundido. | Notifique a la FCC. |

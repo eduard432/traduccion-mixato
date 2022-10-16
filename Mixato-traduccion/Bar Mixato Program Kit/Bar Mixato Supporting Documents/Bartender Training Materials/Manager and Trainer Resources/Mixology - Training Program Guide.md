@@ -229,7 +229,7 @@ Descripción general del POD <br/>
 Asistencia del líder del POD
 
 ---
-### Página 11
+### Página 12
 ## Guía de Discusión del Gerente: Verificación de Habilidades
 
 **Empezando**

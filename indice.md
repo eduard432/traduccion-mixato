@@ -17,12 +17,12 @@
 - Mixology QRG - Checking ID - ***1/1***
 - Job Aid - Dialing in Espresso - ***1/1***
 - Job Aid - Chit System - ***1/1***
-- SCEMM - Citrus Juicer - ***0/1***
+- SCEMM - Citrus Juicer - ***1/1***
 - SCEMM - Vienna Refrigerated Cold Pan - ***0/1***
 - Job Aid - Scooped Coffee - ***1/1***
-- SCEMM - Metal Free Pour Spout - ***0/1***
+- SCEMM - Metal Free Pour Spout - ***1/1***
 <!-- - SCEMM - ChampagneSaver - ***0/1*** -->
-- SCEMM - Free Pour Spout - ***0/1***
+- SCEMM - Free Pour Spout - ***1/1***
 - Mixology QRG - Building by the Rounds - ***2/2***
 <!-- - Mixology Princi - Stocked Glastender and Two Wine Fridges - ***0/1*** -->
 - Mixology QRG - Beverage Food Pairings - ***1/1***
@@ -33,7 +33,7 @@
 - Mixology - Your Role Mixology Experience Activity Guide - ***2/2***
 - Mixology - Role of the Bartender Activity Guide - ***2/2***
 <!-- - SCEMM - Manual Cold Brew - ***0/2*** -->
-- SCEMM - Ditting Grinder - ***0/6***
+- SCEMM - Ditting Grinder - ***6/6***
 - Mixology - Guiding Orders Module - ***5/5***
 - Roastery Barista Training - Food Pairing - ***5/5***
 - Certification Check - Pour Over Cone - ***6/6***
@@ -61,7 +61,7 @@
 - Roastery Barista Training - Consolidator and Runner - ***6/6***
 - Roastery Barista Training - Steaming Milk - ***6/6***
 - Roastery Barista Training - Cleaning Espresso - ***7/7***
-- SCEMM - Hoshizaki Ice Machine - ***0/3***
+- SCEMM - Hoshizaki Ice Machine - ***3/3***
 - Roastery Barista Training - Next Chapter - ***6/6***
 - Certification Check - Chemex - ***5/5***
 - Princi Mixology QRG - Italian Wine Regions - ***4/4***
@@ -69,7 +69,7 @@
 - Mixology - Activity 3 Beer Basics - ***3/3***
 - Certification Check - Clover - ***5/5***
 - Roastery Barista Training - Training Plan - ***8/8***
-- SCEMM - Black Eagle - ***0/13***
+- SCEMM - Black Eagle - ***13/13***
 <!-- - SCEMM - Beer Tap System - ***0/4*** -->
 - Roastery Barista Training - Partner Purpose and Your Roastery - ***6/6***
 - Mixology - Activity 5 Aperitivo Digestivo Basics - ***4/4***
@@ -92,13 +92,13 @@
 - Service Workflows - ***17/17***
 - Mixology - Activity 3 Beer and Wine Facilitator Notes - ***6/6***
 - Mixology - Activity 5 Mixed Drink Facilitator Notes - ***7/7***
-- SCEMM - Mixology - ***0/16***
-- Mixology - Training Program Guide - ***0/12***
+- SCEMM - Mixology - ***16/16***
+- Mixology - Training Program Guide - ***12/12***
 - Bar Mixato Program Guide - ***30/30***
 <!-- - Bar Mixato Program Guide - ***0/30*** -->
-- SCEMM - Refrigerators Freezers and Ice Machines - ***0/18***
-- SCEMM - Nitro Draft Four Tap - ***0/8***
-- SCEMM - Nitro Cold Brew Coffee Tap - ***0/10***
+- SCEMM - Refrigerators Freezers and Ice Machines - ***18/18***
+- SCEMM - Nitro Draft Four Tap - ***8/8***
+- SCEMM - Nitro Cold Brew Coffee Tap - ***10/10***
 - SCEMM - Roastery Reserve Special Equipment - ***0/54***
 
-## ***Total: 412/547***
+## ***Total: 489/547***
